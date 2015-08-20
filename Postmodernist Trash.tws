@@ -1,0 +1,982 @@
+(dp0
+S'buildDestination'
+p1
+S''
+p2
+sS'saveDestination'
+p3
+VC:\u005cUsers\u005cAnsh Patel\u005cDesktop\u005cPostmodernist Trash.tws
+p4
+sS'metadata'
+p5
+(dp6
+sS'target'
+p7
+S'sugarcane'
+p8
+sS'storyPanel'
+p9
+(dp10
+S'widgets'
+p11
+(lp12
+(dp13
+S'selected'
+p14
+I00
+sS'pos'
+p15
+(lp16
+I10
+aI10
+asS'passage'
+p17
+(itiddlywiki
+Tiddler
+p18
+(dp20
+S'text'
+p21
+V[[Postmodernist Trash|Entry]]\u000a
+p22
+sS'title'
+p23
+VStart
+p24
+sS'modified'
+p25
+ctime
+struct_time
+p26
+((I2015
+I7
+I23
+I13
+I18
+I0
+I3
+I204
+I1
+tp27
+(dp28
+tp29
+Rp30
+sS'tags'
+p31
+(lp32
+sS'created'
+p33
+g26
+((I2015
+I6
+I28
+I12
+I29
+I34
+I6
+I179
+I1
+tp34
+(dp35
+tp36
+Rp37
+sbsa(dp38
+g14
+I00
+sg15
+(lp39
+I10
+aI150
+asg17
+(itiddlywiki
+Tiddler
+p40
+(dp41
+g21
+S'Untitled Story'
+p42
+sg23
+S'StoryTitle'
+p43
+sg25
+g26
+((I2015
+I6
+I28
+I12
+I29
+I34
+I6
+I179
+I1
+tp44
+(dp45
+tp46
+Rp47
+sg31
+(lp48
+sg33
+g47
+sbsa(dp49
+g14
+I00
+sg15
+(lp50
+I10
+aI290
+asg17
+(itiddlywiki
+Tiddler
+p51
+(dp52
+g21
+S'Anonymous'
+p53
+sg23
+S'StoryAuthor'
+p54
+sg25
+g26
+((I2015
+I6
+I28
+I12
+I29
+I34
+I6
+I179
+I1
+tp55
+(dp56
+tp57
+Rp58
+sg31
+(lp59
+sg33
+g58
+sbsa(dp60
+g14
+I00
+sg15
+(lp61
+F150.0
+aF850.0
+asg17
+(itiddlywiki
+Tiddler
+p62
+(dp63
+g21
+Vmacros['devDead'] =\u000a{\u000ahandler:function()\u000a{\u000awindow.confirm("Did you kill John Smith?");\u000awindow.alert("The Developer is Dead");\u000a}\u000a}
+p64
+sg23
+VdevDead
+p65
+sg25
+g26
+((I2015
+I7
+I23
+I12
+I14
+I15
+I3
+I204
+I1
+tp66
+(dp67
+tp68
+Rp69
+sg31
+(lp70
+Vscript
+p71
+aVok
+p72
+asg33
+g26
+((I2015
+I6
+I28
+I12
+I29
+I40
+I6
+I179
+I1
+tp73
+(dp74
+tp75
+Rp76
+sbsa(dp77
+g14
+I00
+sg15
+(lp78
+F10.0
+aF570.0
+asg17
+(itiddlywiki
+Tiddler
+p79
+(dp80
+g21
+Vfunction doConfirm(msg, yesFn, noFn)\u000a{\u000a    var confirmBox = $("#confirmBox");\u000a    confirmBox.find(".message").text(msg);\u000a    confirmBox.find(".yes,.no").unbind().click(function()\u000a    {\u000a        confirmBox.hide();\u000a    });\u000a    confirmBox.find(".yes").click(yesFn);\u000a    confirmBox.find(".no").click(noFn);\u000a    confirmBox.show();\u000a}
+p81
+sg23
+VdoConfirm
+p82
+sg25
+g26
+((I2015
+I6
+I29
+I19
+I58
+I30
+I0
+I180
+I1
+tp83
+(dp84
+tp85
+Rp86
+sg31
+(lp87
+Vscript
+p88
+aVconfirm
+p89
+asg33
+g26
+((I2015
+I6
+I29
+I19
+I57
+I58
+I0
+I180
+I1
+tp90
+(dp91
+tp92
+Rp93
+sbsa(dp94
+g14
+I01
+sg15
+(lp95
+F150.0
+aF10.0
+asg17
+(itiddlywiki
+Tiddler
+p96
+(dp97
+g21
+VIt always begins this way.\u000a\u000aWith you, standing on the threshold. \u000a\u000aWith you, standing opposite yourself.\u000aStaring at each other.\u000a\u000aYou are John Smith, an ordinary man with a disturbing obsession. You are wanted for 400 homicides. \u000a\u000aYou are responsible for 400 homicides. \u000a\u000aNow You know who you <em>really</em> are.\u000a<script>hello();</script>\u000aYou have the same weapons that you always do.\u000a\u000aIn your hands is a...\u000a\u000a[[a machete -- its cold steel covered in the blood of a teenager|Machete]]\u000a\u000a[[a wooden club -- a blot of blood the only remaining sign of your victim's dead dog|Club]]
+p98
+sg23
+VEntry
+p99
+sg25
+g26
+((I2015
+I7
+I25
+I20
+I39
+I17
+I5
+I206
+I1
+tp100
+(dp101
+tp102
+Rp103
+sg31
+(lp104
+VdoCon
+p105
+asg33
+g26
+((I2015
+I6
+I29
+I20
+I1
+I49
+I0
+I180
+I1
+tp106
+(dp107
+tp108
+Rp109
+sbsa(dp110
+g14
+I00
+sg15
+(lp111
+I10
+aI430
+asg17
+(itiddlywiki
+Tiddler
+p112
+(dp113
+g21
+Vbody {\u000a  margin: 2%;\u000a}\u000a#passages{\u000a  margin: 0;\u000a  padding: 0;\u000a  border: 0;\u000a  width:96%;\u000a  margin: auto;\u000a}\u000a.passage {\u000a  font-size:2.5em; \u000a  color: #888;\u000a  text-shadow: #888 0 0 0.05em;\u000a}\u000a@media screen and (max-width: 960px) {\u000a  .passage {\u000a    font-size: 4em;\u000a  }\u000a}\u000a@media screen and (max-width: 640px) {\u000a  .passage {\u000a    font-size: 3em;\u000a  }\u000a}\u000aa.internalLink, a.externalLink {\u000a  color: #eee;\u000a  text-shadow: #eee 0 0 0.07em;\u000a}\u000aa.internalLink:hover, a.externalLink:hover {\u000a  color: #fff;\u000a  text-decoration: none;\u000a  text-shadow: #fff 0 0 0.09em;\u000a}\u000a#sidebar {\u000a	display:none;\u000a}
+p114
+sg23
+Vtemplate
+p115
+sg25
+g26
+((I2015
+I7
+I23
+I13
+I23
+I14
+I3
+I204
+I1
+tp116
+(dp117
+tp118
+Rp119
+sg31
+(lp120
+Vstylesheet
+p121
+asg33
+g26
+((I2015
+I6
+I29
+I20
+I3
+I4
+I0
+I180
+I1
+tp122
+(dp123
+tp124
+Rp125
+sbsa(dp126
+g14
+I00
+sg15
+(lp127
+F10.0
+aF850.0
+asg17
+(itiddlywiki
+Tiddler
+p128
+(dp129
+g21
+Vmacros['closeWindow'] =\u000a{\u000ahandler:function()\u000a{\u000aself.close();\u000a}\u000a}
+p130
+sg23
+VcloseWindow
+p131
+sg25
+g26
+((I2015
+I7
+I25
+I20
+I36
+I56
+I5
+I206
+I1
+tp132
+(dp133
+tp134
+Rp135
+sg31
+(lp136
+Vscript
+p137
+asg33
+g26
+((I2015
+I7
+I23
+I12
+I7
+I59
+I3
+I204
+I1
+tp138
+(dp139
+tp140
+Rp141
+sbsa(dp142
+g14
+I00
+sg15
+(lp143
+F150.0
+aF570.0
+asg17
+(itiddlywiki
+Tiddler
+p144
+(dp145
+g21
+Vfunction hello()\u000a{\u000aself.close();\u000a}
+p146
+sg23
+Vhello
+p147
+sg25
+g26
+((I2015
+I7
+I25
+I20
+I37
+I58
+I5
+I206
+I1
+tp148
+(dp149
+tp150
+Rp151
+sg31
+(lp152
+Vscript
+p153
+asg33
+g26
+((I2015
+I7
+I23
+I12
+I8
+I39
+I3
+I204
+I1
+tp154
+(dp155
+tp156
+Rp157
+sbsa(dp158
+g14
+I00
+sg15
+(lp159
+I710
+aI430
+asg17
+(itiddlywiki
+Tiddler
+p160
+(dp161
+g21
+V<<closeWindow>>
+p162
+sg23
+VCloseWindow
+p163
+sg25
+g26
+((I2015
+I7
+I23
+I12
+I15
+I15
+I3
+I204
+I1
+tp164
+(dp165
+tp166
+Rp167
+sg31
+(lp168
+sg33
+g26
+((I2015
+I7
+I23
+I12
+I14
+I28
+I3
+I204
+I1
+tp169
+(dp170
+tp171
+Rp172
+sbsa(dp173
+g14
+I00
+sg15
+(lp174
+F290.0
+aF10.0
+asg17
+(itiddlywiki
+Tiddler
+p175
+(dp176
+g21
+VSome of it was fresh enough to gleam in the dim lights of the corridor.\u000aThere is a wooden club gripped in your other hand.\u000a\u000aThe law used to pass all of this off as <em>"accidental murder"</em> -- an unintentional result of a mistaken identity or a reflex action. \u000a\u000aUntil a few years atleast, when things began to change...for the <em>worse</em>.\u000a\u000aDelving for a moment inside the torrential stream of thoughts in your mind, you wonder...\u000a\u000a\u000a[[How did you become like this?|LikeThis]]\u000a[[Why did you become who you are?|WhoYouAre]]\u000a[[What are you exactly feeling?|ExactlyFeeling]]
+p177
+sg23
+VMachete
+p178
+sg25
+g26
+((I2015
+I7
+I23
+I14
+I36
+I18
+I3
+I204
+I1
+tp179
+(dp180
+tp181
+Rp182
+sg31
+(lp183
+sg33
+g26
+((I2015
+I7
+I23
+I13
+I20
+I52
+I3
+I204
+I1
+tp184
+(dp185
+tp186
+Rp187
+sbsa(dp188
+g14
+I00
+sg15
+(lp189
+F430.0
+aF10.0
+asg17
+(itiddlywiki
+Tiddler
+p190
+(dp191
+g21
+VThere is a machete in your other hand, reflecting light off its clean, cold steel. \u000a\u000aThe law used to pass all of this off as <em>"accidental murder"</em> -- an unintentional result of a mistaken identity or a reflex action. \u000a\u000aUntil a few years atleast, when things began to change...for the <em>worse</em>.\u000a\u000aDelving for a moment inside the torrential stream of thoughts in your mind, you wonder...\u000a\u000a\u000a[[How did you become like this?|LikeThis]]\u000a[[Why did you become who you are?|WhoYouAre]]\u000a[[What are you exactly feeling?|ExactlyFeeling]]
+p192
+sg23
+VClub
+p193
+sg25
+g26
+((I2015
+I7
+I23
+I14
+I36
+I32
+I3
+I204
+I1
+tp194
+(dp195
+tp196
+Rp197
+sg31
+(lp198
+sg33
+g26
+((I2015
+I7
+I23
+I13
+I20
+I53
+I3
+I204
+I1
+tp199
+(dp200
+tp201
+Rp202
+sbsa(dp203
+g14
+I00
+sg15
+(lp204
+F150.0
+aF150.0
+asg17
+(itiddlywiki
+Tiddler
+p205
+(dp206
+g21
+VThere was something in the past.\u000a\u000aFaint visions from the past conjure up in your head. Your mind stretches forward, grasping at the loose strands of a memory that doesn't exist.\u000a\u000aYou recall killing many in this place before. \u000a\u000aThis was an abandoned warehouse, that you had inherited from your Uncle, which would eventually became the venue for your rituals. \u000aA magical place that you would enter without the fear of any consequences. \u000a\u000aUntil now.\u000a\u000a[[How did you feel the first time?|FirstTime]]\u000a[[Did anyone ever find out about what you did?|FindOut]]\u000a[[Who is this Uncle of yours?|Uncle]]
+p207
+sg23
+VLikeThis
+p208
+sg25
+g26
+((I2015
+I7
+I23
+I14
+I43
+I31
+I3
+I204
+I1
+tp209
+(dp210
+tp211
+Rp212
+sg31
+(lp213
+sg33
+g26
+((I2015
+I7
+I23
+I14
+I36
+I40
+I3
+I204
+I1
+tp214
+(dp215
+tp216
+Rp217
+sbsa(dp218
+g14
+I00
+sg15
+(lp219
+F290.0
+aF150.0
+asg17
+(itiddlywiki
+Tiddler
+p220
+(dp221
+g21
+VAre you looking for a reason?\u000a\u000aFaint visions from the past conjure up in your head. Your mind stretches forward, grasping at the loose strands of a memory that doesn't exist.\u000a\u000aYou recall killing many in this place before. \u000a\u000aThis was an abandoned warehouse, that you had inherited from your Uncle, which would eventually became the venue for your rituals. \u000aA magical place that you would enter without the fear of any consequences. \u000a\u000aUntil now.\u000a\u000a [[How did you feel the first time?|FirstTime]]\u000a [[Did anyone ever find out about what you did?|FindOut]]\u000a [[Who is this Uncle of yours?|Uncle]]
+p222
+sg23
+VExactlyFeeling
+p223
+sg25
+g26
+((I2015
+I7
+I23
+I14
+I41
+I51
+I3
+I204
+I1
+tp224
+(dp225
+tp226
+Rp227
+sg31
+(lp228
+sg33
+g26
+((I2015
+I7
+I23
+I14
+I36
+I41
+I3
+I204
+I1
+tp229
+(dp230
+tp231
+Rp232
+sbsa(dp233
+g14
+I00
+sg15
+(lp234
+F430.0
+aF150.0
+asg17
+(itiddlywiki
+Tiddler
+p235
+(dp236
+g21
+VYou don't feel the euphoria or thrill you used to feel. You feel....different.\u000a\u000aFaint visions from the past conjure up in your head. Your mind stretches forward, grasping at the loose strands of a memory that doesn't exist.\u000a\u000aYou recall killing many in this place before. \u000a\u000aThis was an abandoned warehouse, that you had inherited from your Uncle, which would eventually became the venue for your rituals. \u000aA magical place that you would enter without the fear of any consequences. \u000a\u000aUntil now.\u000a\u000a[[How did you feel the first time?|FirstTime]]\u000a[[Did anyone ever find out about what you did?|FindOut]]\u000a[[Who is this Uncle of yours?|Uncle]]
+p237
+sg23
+VWhoYouAre
+p238
+sg25
+g26
+((I2015
+I7
+I23
+I14
+I43
+I37
+I3
+I204
+I1
+tp239
+(dp240
+tp241
+Rp242
+sg31
+(lp243
+sg33
+g26
+((I2015
+I7
+I23
+I14
+I36
+I41
+I3
+I204
+I1
+tp244
+(dp245
+tp246
+Rp247
+sbsa(dp248
+g14
+I00
+sg15
+(lp249
+F150.0
+aF290.0
+asg17
+(itiddlywiki
+Tiddler
+p250
+(dp251
+g21
+V\u000aYou were still John Smith then. An ordinary man with an ordinary job. Invited to a reunion dinner by an old college friend. You reached his place an hour late and saw the party had already begun.\u000aYou recall seeing a chaotic scarlet mess that was painted across the marble floor and feeling the blood drain from your veins. You had never seen so much death with your eyes.\u000aYou scanned the floor, moving your eyes over the dead faces of familiar people that you once knew.\u000a\u000aYou recall hearing footsteps coming down the stairway and how you felt apprehension like you never had before. Grabbing a knife from the hands of a dead man, who once happened to be your academic advisor, you sprung into action. \u000aIt was the fear, that emphasized your mortality and made you feel alive. With blood and adrenaline pumping into your veins, you hid behind an alcove waiting for the steps to get closer.\u000a\u000aYou recall seeing a grotesque human-like figure, their clothes covered in flesh and cartilege, as they walked slowly across the room. It had taken you few moments to realize it was the host, your old college buddy.\u000a\u000a[[Plunging your knife into his neck and severing his arteries|PlungeKnife]]\u000a    You felt alive, you felt good.\u000a    *goto preworld\u000a  #Slicing your knife across his face and blinding his eyes\u000a    You felt alive, you felt good.\u000a    *goto preworld\u000a  #Stabbing his gut and twisting it to rupture his organs\u000a    You felt alive, you felt good. \u000a    *goto preworld\u000a\u000aHe was one of the Addicted.\u000a\u000aIt didn't take him long to smell your fear and as he slowly turned towards your hiding place, you sprung forward:
+p252
+sg23
+VFirstTime
+p253
+sg25
+g26
+((I2015
+I7
+I23
+I14
+I45
+I12
+I3
+I204
+I1
+tp254
+(dp255
+tp256
+Rp257
+sg31
+(lp258
+sg33
+g26
+((I2015
+I7
+I23
+I14
+I43
+I46
+I3
+I204
+I1
+tp259
+(dp260
+tp261
+Rp262
+sbsa(dp263
+g14
+I00
+sg15
+(lp264
+F290.0
+aF290.0
+asg17
+(itiddlywiki
+Tiddler
+p265
+(dp266
+g21
+V
+p267
+sg23
+VFindOut
+p268
+sg25
+g26
+((I2015
+I7
+I23
+I14
+I43
+I57
+I3
+I204
+I1
+tp269
+(dp270
+tp271
+Rp272
+sg31
+(lp273
+sg33
+g26
+((I2015
+I7
+I23
+I14
+I43
+I46
+I3
+I204
+I1
+tp274
+(dp275
+tp276
+Rp277
+sbsa(dp278
+g14
+I00
+sg15
+(lp279
+F430.0
+aF290.0
+asg17
+(itiddlywiki
+Tiddler
+p280
+(dp281
+g21
+g267
+sg23
+VUncle
+p282
+sg25
+g26
+((I2015
+I7
+I23
+I14
+I44
+I2
+I3
+I204
+I1
+tp283
+(dp284
+tp285
+Rp286
+sg31
+(lp287
+sg33
+g26
+((I2015
+I7
+I23
+I14
+I43
+I46
+I3
+I204
+I1
+tp288
+(dp289
+tp290
+Rp291
+sbsa(dp292
+g14
+I00
+sg15
+(lp293
+F150.0
+aF430.0
+asg17
+(itiddlywiki
+Tiddler
+p294
+(dp295
+g21
+Vmacros['doCon'] =\u000a{\u000ahandler:function() \u000a{\u000awindow.alert("The Developer is Dead");\u000a}\u000a}
+p296
+sg23
+VdoCon
+p297
+sg25
+g26
+((I2015
+I7
+I25
+I20
+I39
+I9
+I5
+I206
+I1
+tp298
+(dp299
+tp300
+Rp301
+sg31
+(lp302
+Vscript
+p303
+aVdoCon
+p304
+asg33
+g26
+((I2015
+I7
+I23
+I14
+I48
+I41
+I3
+I204
+I1
+tp305
+(dp306
+tp307
+Rp308
+sbsasS'scale'
+p309
+F0.6000000000000001
+sS'snapping'
+p310
+I01
+ss.

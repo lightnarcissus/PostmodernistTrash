@@ -5,7 +5,7 @@ S''
 p2
 sS'saveDestination'
 p3
-S'C:\\Users\\Ansh Patel\\Documents\\GitHub\\PostmodernistTrash\\Postmodernist Trash.tws'
+VC:\u005cUsers\u005cAnsh Patel\u005cDocuments\u005cGitHub\u005cPostmodernistTrash\u005cPostmodernist Trash.tws
 p4
 sS'metadata'
 p5
@@ -275,7 +275,7 @@ Tiddler
 p96
 (dp97
 g21
-VIt always begins this way.\u000a\u000aWith you, standing on the threshold. \u000a\u000aWith you, standing opposite yourself.\u000aStaring at each other.\u000a\u000aYou are John Smith, an ordinary man with a disturbing obsession. You are wanted for 400 homicides. \u000a\u000aYou are responsible for 400 homicides. \u000a\u000aNow You know who you <em>really</em> are.\u000a<script>hello();</script>\u000aYou have the same weapons that you always do.\u000a\u000aIn your hands is a...\u000a\u000a[[a machete -- its cold steel covered in the blood of a teenager|Machete]]\u000a\u000a[[a wooden club -- a blot of blood the only remaining sign of your victim's dead dog|Club]]
+VIt always begins this way.\u000aWith you, standing on the threshold. \u000aWith you, standing opposite yourself.\u000aStaring at each other.\u000a<<openWindow>>\u000aYou are John Smith, an ordinary man with a disturbing obsession. You are wanted for 400 homicides. \u000a\u000aYou are responsible for 400 homicides. \u000a\u000aNow You know who you <em>really</em> are.\u000aYou have the same weapons that you always do.\u000a\u000aIn your hands is a...\u000a\u000a[[a machete -- its cold steel covered in the blood of a teenager|Machete]]\u000a\u000a[[a wooden club -- a blot of blood the only remaining sign of your victim's dead dog|Club]]
 p98
 sg23
 VEntry
@@ -283,13 +283,13 @@ p99
 sg25
 g26
 ((I2015
-I7
-I25
-I20
-I39
-I17
+I8
+I22
+I9
+I35
+I23
 I5
-I206
+I234
 I1
 tp100
 (dp101
@@ -379,7 +379,7 @@ Tiddler
 p128
 (dp129
 g21
-Vmacros['closeWindow'] =\u000a{\u000ahandler:function()\u000a{\u000aself.close();\u000a}\u000a}
+Vmacros['closeWindow'] =\u000a{\u000ahandler:function() \u000a{\u000aself.close();\u000a}\u000a}
 p130
 sg23
 VcloseWindow
@@ -387,13 +387,13 @@ p131
 sg25
 g26
 ((I2015
-I7
-I25
-I20
-I36
-I56
+I8
+I22
+I9
+I30
+I34
 I5
-I206
+I234
 I1
 tp132
 (dp133
@@ -431,7 +431,7 @@ Tiddler
 p144
 (dp145
 g21
-Vfunction hello()\u000a{\u000aself.close();\u000a}
+Vfunction hello(url)\u000a{\u000avar ur=url\u000awindow.open(ur, '_blank', 'location=yes,height=570,width=520,scrollbars=yes,status=yes');\u000a}
 p146
 sg23
 Vhello
@@ -439,13 +439,13 @@ p147
 sg25
 g26
 ((I2015
-I7
-I25
-I20
-I37
-I58
+I8
+I22
+I9
+I15
+I30
 I5
-I206
+I234
 I1
 tp148
 (dp149
@@ -533,7 +533,7 @@ Tiddler
 p175
 (dp176
 g21
-VSome of it was fresh enough to gleam in the dim lights of the corridor.\u000aThere is a wooden club gripped in your other hand.\u000a\u000aThe law used to pass all of this off as <em>"accidental murder"</em> -- an unintentional result of a mistaken identity or a reflex action. \u000a\u000aUntil a few years atleast, when things began to change...for the <em>worse</em>.\u000a\u000aDelving for a moment inside the torrential stream of thoughts in your mind, you wonder...\u000a\u000a\u000a[[How did you become like this?|LikeThis]]\u000a[[Why did you become who you are?|WhoYouAre]]\u000a[[What are you exactly feeling?|ExactlyFeeling]]
+VSome of it was fresh enough to gleam in the dim lights of the corridor.\u000aThere is a wooden club gripped in your other hand.\u000aThe law used to pass all of this off as <em>"accidental murder"</em> -- an unintentional result of a mistaken identity or a reflex action. \u000a\u000aUntil a few years atleast, when things began to change...for the <em>worse</em>.\u000a\u000aDelving for a moment inside the torrential stream of thoughts in your mind, you wonder...\u000a\u000a[[closewindow|CloseWindow]]\u000a[[How did you become like this?|LikeThis]]\u000a[[Why did you become who you are?|WhoYouAre]]\u000a[[What are you exactly feeling?|ExactlyFeeling]]
 p177
 sg23
 VMachete
@@ -541,13 +541,13 @@ p178
 sg25
 g26
 ((I2015
-I7
-I23
-I14
-I36
-I18
-I3
-I204
+I8
+I22
+I2
+I54
+I12
+I5
+I234
 I1
 tp179
 (dp180
@@ -3474,10 +3474,166 @@ tp1056
 (dp1057
 tp1058
 Rp1059
+sbsa(dp1060
+g14
+I00
+sg15
+(lp1061
+F430.0
+aF430.0
+asg17
+(itiddlywiki
+Tiddler
+p1062
+(dp1063
+g21
+Vmacros['openWindow'] =\u000a{\u000ahandler:function p1() \u000a{\u000a\u000avar url="http://github.com";\u000awindow.open(url, '_blank', 'location=yes,height=570,width=520,scrollbars=yes,status=yes');\u000awindow.open("http://lightnarcissus.com");\u000a}\u000a}
+p1064
+sg23
+VopenWindow
+p1065
+sg25
+g26
+((I2015
+I8
+I22
+I9
+I37
+I32
+I5
+I234
+I1
+tp1066
+(dp1067
+tp1068
+Rp1069
+sg31
+(lp1070
+Vscript
+p1071
+asg33
+g26
+((I2015
+I8
+I22
+I9
+I27
+I36
+I5
+I234
+I1
+tp1072
+(dp1073
+tp1074
+Rp1075
+sbsa(dp1076
+g14
+I00
+sg15
+(lp1077
+F570.0
+aF10.0
+asg17
+(itiddlywiki
+Tiddler
+p1078
+(dp1079
+g21
+Vmacros['alertWindow'] =\u000a{\u000ahandler:function() \u000a{\u000awindow.alert("The Developer is Dead");\u000a}\u000a}
+p1080
+sg23
+ValertWindow
+p1081
+sg25
+g26
+((I2015
+I8
+I22
+I9
+I34
+I49
+I5
+I234
+I1
+tp1082
+(dp1083
+tp1084
+Rp1085
+sg31
+(lp1086
+Vscript
+p1087
+asg33
+g26
+((I2015
+I8
+I22
+I9
+I34
+I4
+I5
+I234
+I1
+tp1088
+(dp1089
+tp1090
+Rp1091
+sbsa(dp1092
+g14
+I00
+sg15
+(lp1093
+F570.0
+aF150.0
+asg17
+(itiddlywiki
+Tiddler
+p1094
+(dp1095
+g21
+Vmacros['recursiveOpenWindow'] =\u000a{\u000ahandler:function p1() \u000a{\u000a\u000avar url="http://github.com";\u000awindow.open(url, '_blank', 'location=yes,height=570,width=520,scrollbars=yes,status=yes');\u000awindow.open("http://lightnarcissus.com");\u000ap1();\u000a}\u000a}
+p1096
+sg23
+VrecursiveOpenWindow
+p1097
+sg25
+g26
+((I2015
+I8
+I22
+I9
+I37
+I23
+I5
+I234
+I1
+tp1098
+(dp1099
+tp1100
+Rp1101
+sg31
+(lp1102
+Vscript
+p1103
+asg33
+g26
+((I2015
+I8
+I22
+I9
+I37
+I6
+I5
+I234
+I1
+tp1104
+(dp1105
+tp1106
+Rp1107
 sbsasS'scale'
-p1060
+p1108
 F0.6000000000000001
 sS'snapping'
-p1061
+p1109
 I01
 ss.

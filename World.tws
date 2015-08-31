@@ -1,0 +1,1130 @@
+(dp0
+S'buildDestination'
+p1
+S''
+p2
+sS'saveDestination'
+p3
+VC:\u005cUsers\u005cAnsh Patel\u005cDocuments\u005cGitHub\u005cPostmodernistTrash\u005cWorld.tws
+p4
+sS'metadata'
+p5
+(dp6
+sS'target'
+p7
+S'sugarcane'
+p8
+sS'storyPanel'
+p9
+(dp10
+S'widgets'
+p11
+(lp12
+(dp13
+S'selected'
+p14
+I00
+sS'pos'
+p15
+(lp16
+F10.0
+aF10.0
+asS'passage'
+p17
+(itiddlywiki
+Tiddler
+p18
+(dp20
+S'text'
+p21
+VA world without any murder. \u000a\u000aA world where murder wasn't just illegal again, but one where every murderer would be dehumanized to a monster. \u000aOne where they would face the same end as their victims.\u000a\u000aBut you missed the old world. The one where you [b]truly[/b] felt home at.\u000a\u000a[[A world that embraced its primal nature|Noise]]\u000a[[A world that you sorely missed|Noise]]\u000a[[A world that knew no birth-based divisions and differences|Noise]]
+p22
+sS'title'
+p23
+VStart
+p24
+sS'modified'
+p25
+ctime
+struct_time
+p26
+((I2015
+I8
+I31
+I6
+I38
+I5
+I0
+I243
+I1
+tp27
+(dp28
+tp29
+Rp30
+sS'tags'
+p31
+(lp32
+sS'created'
+p33
+g26
+((I2015
+I8
+I31
+I6
+I37
+I23
+I0
+I243
+I1
+tp34
+(dp35
+tp36
+Rp37
+sbsa(dp38
+g14
+I00
+sg15
+(lp39
+I10
+aI150
+asg17
+(itiddlywiki
+Tiddler
+p40
+(dp41
+g21
+VBluntAsFuck.tws
+p42
+sg23
+VStoryTitle
+p43
+sg25
+g26
+((I2015
+I8
+I31
+I7
+I29
+I14
+I0
+I243
+I1
+tp44
+(dp45
+tp46
+Rp47
+sg31
+(lp48
+sg33
+g26
+((I2015
+I8
+I31
+I6
+I37
+I23
+I0
+I243
+I1
+tp49
+(dp50
+tp51
+Rp52
+sbsa(dp53
+g14
+I00
+sg15
+(lp54
+I10
+aI290
+asg17
+(itiddlywiki
+Tiddler
+p55
+(dp56
+g21
+S'Anonymous'
+p57
+sg23
+S'StoryAuthor'
+p58
+sg25
+g26
+((I2015
+I8
+I31
+I6
+I37
+I23
+I0
+I243
+I1
+tp59
+(dp60
+tp61
+Rp62
+sg31
+(lp63
+sg33
+g62
+sbsa(dp64
+g14
+I00
+sg15
+(lp65
+F570.0
+aF10.0
+asg17
+(itiddlywiki
+Tiddler
+p66
+(dp67
+g21
+VAll of us knew what we really were. None of us hid behind masks.\u000a\u000aBut now, in the present, you are finally facing yourself.  \u000a \u000aA drop of regret stemming from your recent accidental murder pollutes the pool of your thoughts,forcing you to finally see what you have morphed into.\u000aYou see the toll that those 400 remorseless acts have taken on your humanity.\u000a\u000aThe more you think, the worse you start to feel.\u000a\u000aStatic noise overwhelms your auditory senses, debilitating your perception.\u000a\u000aScanlines occasionally flicker across your eyes, reminding you of your own transitory nature in this world.\u000a\u000a[b][i]You are a monster.[/i][/b]\u000a\u000aFinally, choosing to break the deadly silence, you ask yourself, "Who are you?"\u000a\u000a[[I am the player -- your master|PlayerMaster]]\u000a[[I am your co-conspirator|Conspirator]]\u000a[[I am independent of who you are|Independent]]
+p68
+sg23
+VNoise
+p69
+sg25
+g26
+((I2015
+I8
+I21
+I2
+I32
+I7
+I4
+I233
+I1
+tp70
+(dp71
+tp72
+Rp73
+sg31
+(lp74
+sg33
+g26
+((I2015
+I8
+I21
+I2
+I30
+I28
+I4
+I233
+I1
+tp75
+(dp76
+tp77
+Rp78
+sbsa(dp79
+g14
+I00
+sg15
+(lp80
+F430.0
+aF150.0
+asg17
+(itiddlywiki
+Tiddler
+p81
+(dp82
+g21
+VYou wince as you put your blunt thoughts into words, feeling the very air surrounding you stinging your skin. \u000a\u000aYou could feel the static noise evolving into an incessant drone, making you feel like you're in the eye of an invisible storm.\u000a[[Look at yourself|LookYourself]]\u000a\u000a[[Think about yourself|ThinkYourself]]\u000a	\u000a[[Talk to yourself|TalkYourself]]\u000a
+p83
+sg23
+VPlayerMaster
+p84
+sg25
+g26
+((I2015
+I8
+I21
+I2
+I38
+I29
+I4
+I233
+I1
+tp85
+(dp86
+tp87
+Rp88
+sg31
+(lp89
+sg33
+g26
+((I2015
+I8
+I21
+I2
+I32
+I44
+I4
+I233
+I1
+tp90
+(dp91
+tp92
+Rp93
+sbsa(dp94
+g14
+I00
+sg15
+(lp95
+F570.0
+aF150.0
+asg17
+(itiddlywiki
+Tiddler
+p96
+(dp97
+g21
+VThere's no You. \u000a    *set selfawareness +3\u000a    There's Us. There's We.\u000a\u000a    Us between ourselves, We to those who can see us.\u000a[[I don't believe you|DontBelieve]]\u000a\u000a[[Why would we ever work together?|WhyWorkTogether]]\u000a\u000a    
+p98
+sg23
+VConspirator
+p99
+sg25
+g26
+((I2015
+I8
+I21
+I2
+I40
+I53
+I4
+I233
+I1
+tp100
+(dp101
+tp102
+Rp103
+sg31
+(lp104
+sg33
+g26
+((I2015
+I8
+I21
+I2
+I33
+I1
+I4
+I233
+I1
+tp105
+(dp106
+tp107
+Rp108
+sbsa(dp109
+g14
+I00
+sg15
+(lp110
+F710.0
+aF150.0
+asg17
+(itiddlywiki
+Tiddler
+p111
+(dp112
+g21
+VI have an existence without you. \u000a    *set selfawareness +3\u000a    Outside you. \u000a\u000a    I'm not just who I see, right now. I know I'm far more than that.\u000a[[How do I know?|HowDoIKnow]]\u000a       \u000a[[Then, what am I now?|WhatAmINow]]\u000a  \u000a[[Why am I not myself right now?|WhyAmINotMyself]]\u000a\u000a
+p113
+sg23
+VIndependent
+p114
+sg25
+g26
+((I2015
+I8
+I21
+I2
+I44
+I7
+I4
+I233
+I1
+tp115
+(dp116
+tp117
+Rp118
+sg31
+(lp119
+sg33
+g26
+((I2015
+I8
+I21
+I2
+I33
+I2
+I4
+I233
+I1
+tp120
+(dp121
+tp122
+Rp123
+sbsa(dp124
+g14
+I00
+sg15
+(lp125
+F430.0
+aF290.0
+asg17
+(itiddlywiki
+Tiddler
+p126
+(dp127
+g21
+V\u000a		*set selfawareness +3\u000a        You know what you know.\u000a\u000a        You can feel the light tug of invisible strings tied to your body.\u000a\u000a\u000a[[Time to face You|Showdown]]
+p128
+sg23
+VThinkYourself
+p129
+sg25
+g26
+((I2015
+I8
+I31
+I6
+I48
+I25
+I0
+I243
+I1
+tp130
+(dp131
+tp132
+Rp133
+sg31
+(lp134
+sg33
+g26
+((I2015
+I8
+I21
+I2
+I36
+I50
+I4
+I233
+I1
+tp135
+(dp136
+tp137
+Rp138
+sbsa(dp139
+g14
+I00
+sg15
+(lp140
+F570.0
+aF290.0
+asg17
+(itiddlywiki
+Tiddler
+p141
+(dp142
+g21
+V        *set selfawareness +2\u000a        Are You not talking to myself already? \u000a\u000a        But even so, what would You talk about to your own self?\u000a    \u000a[[Time to face Yourself|Showdown]]
+p143
+sg23
+VTalkYourself
+p144
+sg25
+g26
+((I2015
+I8
+I31
+I6
+I48
+I41
+I0
+I243
+I1
+tp145
+(dp146
+tp147
+Rp148
+sg31
+(lp149
+sg33
+g26
+((I2015
+I8
+I21
+I2
+I36
+I52
+I4
+I233
+I1
+tp150
+(dp151
+tp152
+Rp153
+sbsa(dp154
+g14
+I00
+sg15
+(lp155
+F290.0
+aF290.0
+asg17
+(itiddlywiki
+Tiddler
+p156
+(dp157
+g21
+V\u000a		*set self-awareness +5\u000a\u000a        Unfortunately, your eyes cannot look at yourself. \u000a\u000a        Only at your palms.\u000a\u000a[[Time to face myself|Showdown]]
+p158
+sg23
+VLookYourself
+p159
+sg25
+g26
+((I2015
+I8
+I31
+I6
+I48
+I9
+I0
+I243
+I1
+tp160
+(dp161
+tp162
+Rp163
+sg31
+(lp164
+sg33
+g26
+((I2015
+I8
+I21
+I2
+I36
+I53
+I4
+I233
+I1
+tp165
+(dp166
+tp167
+Rp168
+sbsa(dp169
+g14
+I00
+sg15
+(lp170
+F290.0
+aF430.0
+asg17
+(itiddlywiki
+Tiddler
+p171
+(dp172
+g21
+VDisgust and hatred boils from your gut, all of it directed towards your own self.\u000a\u000aLifting your machete, you...\u000a\u000a[[slash your grotesque face|SlashFace]]\u000a   \u000a[[jab it into your gut to bring out all the disgust and hatred|JabGut]]\u000a\u000a[[stab yourself in the throat, just like you did to hundreds before|StabThroat]]\u000a\u000a\u000a
+p173
+sg23
+VShowdown
+p174
+sg25
+g26
+((I2015
+I8
+I21
+I3
+I0
+I2
+I4
+I233
+I1
+tp175
+(dp176
+tp177
+Rp178
+sg31
+(lp179
+sg33
+g26
+((I2015
+I8
+I21
+I2
+I38
+I14
+I4
+I233
+I1
+tp180
+(dp181
+tp182
+Rp183
+sbsa(dp184
+g14
+I00
+sg15
+(lp185
+F850.0
+aF290.0
+asg17
+(itiddlywiki
+Tiddler
+p186
+(dp187
+g21
+V        *image mirror.png center\u000a        Because that's how we are. \u000a\u000a[[Time to face You|Showdown]]
+p188
+sg23
+VWhyWorkTogether
+p189
+sg25
+g26
+((I2015
+I8
+I31
+I7
+I27
+I36
+I0
+I243
+I1
+tp190
+(dp191
+tp192
+Rp193
+sg31
+(lp194
+sg33
+g26
+((I2015
+I8
+I21
+I2
+I40
+I5
+I4
+I233
+I1
+tp195
+(dp196
+tp197
+Rp198
+sbsa(dp199
+g14
+I00
+sg15
+(lp200
+F710.0
+aF290.0
+asg17
+(itiddlywiki
+Tiddler
+p201
+(dp202
+g21
+V        *image mirror.png center\u000a        Why should I believe your words?\u000a\u000a[[Time to face You|Showdown]]
+p203
+sg23
+VDontBelieve
+p204
+sg25
+g26
+((I2015
+I8
+I31
+I7
+I27
+I26
+I0
+I243
+I1
+tp205
+(dp206
+tp207
+Rp208
+sg31
+(lp209
+sg33
+g26
+((I2015
+I8
+I21
+I2
+I40
+I5
+I4
+I233
+I1
+tp210
+(dp211
+tp212
+Rp213
+sbsa(dp214
+g14
+I00
+sg15
+(lp215
+F1270.0
+aF290.0
+asg17
+(itiddlywiki
+Tiddler
+p216
+(dp217
+g21
+V        *image loneman.png center\u000a        Because I am inside the magic circle.\u000a        *goto showdown\u000a\u000a[[Time to face You|Showdown]]
+p218
+sg23
+VWhyAmINotMyself
+p219
+sg25
+g26
+((I2015
+I8
+I31
+I7
+I27
+I59
+I0
+I243
+I1
+tp220
+(dp221
+tp222
+Rp223
+sg31
+(lp224
+sg33
+g26
+((I2015
+I8
+I21
+I2
+I42
+I48
+I4
+I233
+I1
+tp225
+(dp226
+tp227
+Rp228
+sbsa(dp229
+g14
+I00
+sg15
+(lp230
+F1130.0
+aF290.0
+asg17
+(itiddlywiki
+Tiddler
+p231
+(dp232
+g21
+V      *image loneman.png center\u000a        A bundle of contradictions\u000a\u000a[[Time to face You|Showdown]]
+p233
+sg23
+VWhatAmINow
+p234
+sg25
+g26
+((I2015
+I8
+I31
+I7
+I27
+I52
+I0
+I243
+I1
+tp235
+(dp236
+tp237
+Rp238
+sg31
+(lp239
+sg33
+g26
+((I2015
+I8
+I21
+I2
+I42
+I48
+I4
+I233
+I1
+tp240
+(dp241
+tp242
+Rp243
+sbsa(dp244
+g14
+I00
+sg15
+(lp245
+F990.0
+aF290.0
+asg17
+(itiddlywiki
+Tiddler
+p246
+(dp247
+g21
+V.....\u000a *image loneman.png center\u000a\u000a\u000a[[Time to face You|Showdown]]
+p248
+sg23
+VHowDoIKnow
+p249
+sg25
+g26
+((I2015
+I8
+I31
+I7
+I27
+I44
+I0
+I243
+I1
+tp250
+(dp251
+tp252
+Rp253
+sg31
+(lp254
+sg33
+g26
+((I2015
+I8
+I21
+I2
+I42
+I49
+I4
+I233
+I1
+tp255
+(dp256
+tp257
+Rp258
+sbsa(dp259
+g14
+I00
+sg15
+(lp260
+F430.0
+aF430.0
+asg17
+(itiddlywiki
+Tiddler
+p261
+(dp262
+g21
+V Blood splatters across your eyes as you momentarily blind yourself.\u000a    *set stabCounter +1\u000a    *if stabCounter=1\u000a     \u000a      *set slash1 true\u000a      *goto slash\u000a*set loop 2 \u000aYou wildly slash across your face repeatedly, hoping to forget who you are.\u000a\u000a    *if stabCounter>2\u000a      *goto lowHealth\u000a[[Embrace the inevitable|Dead]]\u000a
+p263
+sg23
+VSlashFace
+p264
+sg25
+g26
+((I2015
+I8
+I31
+I6
+I47
+I19
+I0
+I243
+I1
+tp265
+(dp266
+tp267
+Rp268
+sg31
+(lp269
+sg33
+g26
+((I2015
+I8
+I21
+I2
+I48
+I24
+I4
+I233
+I1
+tp270
+(dp271
+tp272
+Rp273
+sbsa(dp274
+g14
+I00
+sg15
+(lp275
+F850.0
+aF430.0
+asg17
+(itiddlywiki
+Tiddler
+p276
+(dp277
+g21
+VYour Health is [b]Very Low[/b].\u000a\u000a[i][b]You are Dead[/b][/i].\u000a<<OpenDead>>
+p278
+sg23
+VDead
+p279
+sg25
+g26
+((I2015
+I8
+I31
+I7
+I30
+I1
+I0
+I243
+I1
+tp280
+(dp281
+tp282
+Rp283
+sg31
+(lp284
+sg33
+g26
+((I2015
+I8
+I21
+I2
+I55
+I49
+I4
+I233
+I1
+tp285
+(dp286
+tp287
+Rp288
+sbsa(dp289
+g14
+I00
+sg15
+(lp290
+F710.0
+aF430.0
+asg17
+(itiddlywiki
+Tiddler
+p291
+(dp292
+g21
+V    *set stabCounter +1\u000a    *if stabCounter=1\u000a      Blood spills out of your guts, the pain momentarily relieving you from the wrath of your thoughts.\u000a      *set jab1 true\u000a      *goto slash\u000a    *if stabCounter=2\u000a      You stab yourself, this time twisting to ensure you rupture your own organs.\u000a      *set jab2 true\u000a      *goto slash\u000a    *if stabCounter>2\u000a      *goto lowHealth\u000a\u000a\u000a[[Embrace the inevitable|Dead]]
+p293
+sg23
+VJabGut
+p294
+sg25
+g26
+((I2015
+I8
+I31
+I6
+I47
+I8
+I0
+I243
+I1
+tp295
+(dp296
+tp297
+Rp298
+sg31
+(lp299
+sg33
+g26
+((I2015
+I8
+I21
+I2
+I58
+I7
+I4
+I233
+I1
+tp300
+(dp301
+tp302
+Rp303
+sbsa(dp304
+g14
+I00
+sg15
+(lp305
+F570.0
+aF430.0
+asg17
+(itiddlywiki
+Tiddler
+p306
+(dp307
+g21
+V    *set stabCounter +1\u000a    *if stabCounter=1\u000a      You stab yourself at the side of your neck, blood spurting out, the pain being a relief.\u000a      *set stab1 true\u000a      *goto slash\u000a    *if stabCounter=2\u000a      You stab yourself, this time twisting to ensure you don't survive for long.\u000a      *set stab2 true\u000a      *goto slash\u000a    *if stabCounter>2\u000a      *goto lowHealth\u000a\u000a[[Embrace the inevitable|Dead]]
+p308
+sg23
+VStabThroat
+p309
+sg25
+g26
+((I2015
+I8
+I31
+I6
+I46
+I52
+I0
+I243
+I1
+tp310
+(dp311
+tp312
+Rp313
+sg31
+(lp314
+sg33
+g26
+((I2015
+I8
+I21
+I2
+I58
+I7
+I4
+I233
+I1
+tp315
+(dp316
+tp317
+Rp318
+sbsa(dp319
+g14
+I00
+sg15
+(lp320
+F150.0
+aF10.0
+asg17
+(itiddlywiki
+Tiddler
+p321
+(dp322
+g21
+Vbody {\u000a  background:LightGrey;\u000a  color: #000;\u000a  font: medium "Times New Roman", Times, serif;\u000a  margin: auto;\u000a  padding: 8px;\u000a}\u000a#passages {\u000a  margin: auto;\u000a  border: 0;\u000a  padding: 0;\u000a}\u000a.header, .footer {\u000a  border: 1px inset;\u000a  margin: 0.5rem auto;\u000a}\u000a.passage {\u000a  font: inherit;\u000a  line-height: inherit;\u000a  margin: auto;\u000a}\u000a.passage ul {\u000a  padding: 0;\u000a  text-align: left;\u000a}\u000a.passage li {\u000a  display:inherit;\u000a  margin: 0;\u000a}\u000aa, #sidebar #snapback, #sidebar #restart, #sidebar #share, .menu div {\u000a  font-weight:inherit !important;\u000a  text-decoration: underline !important;\u000a  color: #00F !important;\u000a}\u000aa.visited {\u000a  color: #7F007F;\u000a}\u000a#sidebar {\u000a  font: inherit !important;\u000a  position:static;\u000a  width: auto;\u000a  list-style: disc outside;\u000a}\u000a#sidebar ul {\u000a  padding: inherit;\u000a}\u000a#sidebar li {\u000a  color: inherit;\u000a  text-align:inherit;\u000a  margin:inherit;\u000a  display:inline;\u000a}\u000a#sidebar #titleSeparator {\u000a  display:none;\u000a}\u000a#sidebar #title, #sidebar #title:hover {\u000a  color:inherit;\u000a}\u000a#sidebar #storyTitle, #sidebar #storyTitle:hover {\u000a  font-size: 2rem;\u000a  margin: .67rem 0;\u000a  font-weight:bold;\u000a}\u000a#sidebar #storySubtitle {\u000a  font-size: inherit;\u000a  font-weight:bold;\u000a}\u000a#sidebar #storyAuthor::before {\u000a  content: "by ";\u000a}\u000a#sidebar #storyAuthor {\u000a  font-size:medium;\u000a  display:block;\u000a  font-weight:bold !important;\u000a}\u000a#sidebar #credits {\u000a  display:block;\u000a  font-size: smaller;\u000a  padding: inherit;\u000a}\u000a#snapbackMenu::before {\u000a  content: "Rewind to:";\u000a  font-weight:bold;\u000a}\u000a#shareMenu::before {\u000a  content: "Share this story at:";\u000a  font-weight:bold;\u000a}\u000a.menu::before {\u000a  content: "Rewind to:";\u000a  font-weight:bold;\u000a}\u000a.menu, .menu div:hover {\u000a  position: static;\u000a  background-color:inherit;\u000a  color:inherit;\u000a  opacity:1;\u000a  border:0;\u000a  font:inherit;\u000a  line-height:inherit;\u000a}\u000a.menu div {\u000a  margin: 0 1.12rem;\u000a  display: list-item;\u000a  list-style:disc outside;\u000a}
+p323
+sg23
+Vtemplate
+p324
+sg25
+g26
+((I2015
+I8
+I31
+I6
+I49
+I43
+I0
+I243
+I1
+tp325
+(dp326
+tp327
+Rp328
+sg31
+(lp329
+Vstylesheet
+p330
+asg33
+g26
+((I2015
+I8
+I31
+I6
+I39
+I7
+I0
+I243
+I1
+tp331
+(dp332
+tp333
+Rp334
+sbsa(dp335
+g14
+I01
+sg15
+(lp336
+F150.0
+aF150.0
+asg17
+(itiddlywiki
+Tiddler
+p337
+(dp338
+g21
+Vmacros['OpenDead'] =\u000a{\u000ahandler:function p1() \u000a{\u000avar url="https://www.youtube.com/watch?v=rJrxxnBWPdI";\u000awindow.open(url, 'JOHN SMITH IS NOT DEAD', 'location=yes,height=570,width=520,scrollbars=yes,status=yes');\u000awindow.open("http://lightnarcissus.com/wp-content/uploads/2015/08/CourtTrial.html","_blank");\u000a}\u000a}
+p339
+sg23
+VOpenDead
+p340
+sg25
+g26
+((I2015
+I8
+I31
+I15
+I6
+I18
+I0
+I243
+I1
+tp341
+(dp342
+tp343
+Rp344
+sg31
+(lp345
+Vscript
+p346
+asg33
+g26
+((I2015
+I8
+I31
+I6
+I44
+I16
+I0
+I243
+I1
+tp347
+(dp348
+tp349
+Rp350
+sbsasS'scale'
+p351
+F0.6000000000000001
+sS'snapping'
+p352
+I01
+ss.

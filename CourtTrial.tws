@@ -10,63 +10,71 @@ p4
 sS'metadata'
 p5
 (dp6
-sS'target'
+S'description'
 p7
-S'sugarcane'
+Vthis is/not a game
 p8
-sS'storyPanel'
+sS'identity'
 p9
-(dp10
-S'widgets'
+Vmetagame
+p10
+ssS'target'
 p11
-(lp12
-(dp13
-S'selected'
-p14
-I01
-sS'pos'
+S'sugarcane'
+p12
+sS'storyPanel'
+p13
+(dp14
+S'widgets'
 p15
 (lp16
+(dp17
+S'selected'
+p18
+I00
+sS'pos'
+p19
+(lp20
 F10.0
 aF10.0
 asS'passage'
-p17
+p21
 (itiddlywiki
 Tiddler
-p18
-(dp20
-S'text'
-p21
-V[b]Act II: The Trial[/b]\u000a*image court.png center\u000aYou are in the court.\u000a\u000aThe room is lent a surreal vibe by the virtue of being filled with people in strange Owl Masks.\u000a\u000aThey are all staring at You.\u000a\u000aThere's an empty Judge chair. The Jury Box is empty as well. \u000a\u000aA single faceless Prosecutor stands in front of you.\u000a\u000aThe faceless Prosecutor arranges their paper and announces, [i]"Shall we commence the case of 'State vs You' for the Murder of John Smith"[/i]\u000a\u000aYou are your own defender.\u000a\u000aYou respond by...\u000a\u000a[[asking what this is all about|AskAbout]]\u000a[[pleading innocence|PleadInnocence]]\u000a[[laughing loudly at the 'joke'|LaughJoke]]
 p22
-sS'title'
-p23
-VStart
-p24
-sS'modified'
+(dp24
+S'text'
 p25
+V[b]Act II: The Trial[/b]\u000a*image court.png center\u000a<<OpenCourt>>\u000aYou are in the court.\u000a\u000aThe room is lent a surreal vibe by the virtue of being filled with people in strange Owl Masks.\u000a\u000aThey are all staring at You.\u000a\u000aThere's an empty Judge chair. The Jury Box is empty as well. \u000a\u000aA single faceless Prosecutor stands in front of you.\u000a\u000aThe faceless Prosecutor arranges their paper and announces, [i]"Shall we commence the case of 'State vs You' for the Murder of John Smith"[/i]\u000a\u000aYou are your own defender.\u000a\u000aYou respond by...\u000a\u000a[[asking what this is all about|AskAbout]]\u000a[[pleading innocence|PleadInnocence]]\u000a[[laughing loudly at the 'joke'|LaughJoke]]
+p26
+sS'title'
+p27
+VStart
+p28
+sS'modified'
+p29
 ctime
 struct_time
-p26
+p30
 ((I2015
 I8
-I28
-I18
-I50
-I29
-I4
-I240
+I31
+I14
+I10
+I14
+I0
+I243
 I1
-tp27
-(dp28
-tp29
-Rp30
+tp31
+(dp32
+tp33
+Rp34
 sS'tags'
-p31
-(lp32
+p35
+(lp36
 sS'created'
-p33
-g26
+p37
+g30
 ((I2015
 I8
 I28
@@ -76,67 +84,47 @@ I52
 I4
 I240
 I1
-tp34
-(dp35
-tp36
-Rp37
-sbsa(dp38
-g14
+tp38
+(dp39
+tp40
+Rp41
+sbsa(dp42
+g18
 I00
-sg15
-(lp39
+sg19
+(lp43
 I10
 aI150
-asg17
+asg21
 (itiddlywiki
 Tiddler
-p40
-(dp41
-g21
-S'Untitled Story'
-p42
-sg23
-S'StoryTitle'
-p43
-sg25
-g26
-((I2015
-I8
-I28
-I18
-I49
-I52
-I4
-I240
-I1
-tp44
+p44
 (dp45
-tp46
-Rp47
-sg31
-(lp48
-sg33
-g47
-sbsa(dp49
-g14
-I00
-sg15
-(lp50
-I10
-aI290
-asg17
-(itiddlywiki
-Tiddler
-p51
-(dp52
-g21
-S'Anonymous'
-p53
-sg23
-S'StoryAuthor'
-p54
-sg25
-g26
+g25
+VThe Trial
+p46
+sg27
+VStoryTitle
+p47
+sg29
+g30
+((I2015
+I8
+I31
+I15
+I7
+I28
+I0
+I243
+I1
+tp48
+(dp49
+tp50
+Rp51
+sg35
+(lp52
+sg37
+g30
 ((I2015
 I8
 I28
@@ -146,51 +134,97 @@ I52
 I4
 I240
 I1
+tp53
+(dp54
 tp55
-(dp56
-tp57
-Rp58
-sg31
-(lp59
-sg33
-g58
-sbsa(dp60
-g14
+Rp56
+sbsa(dp57
+g18
 I00
-sg15
-(lp61
+sg19
+(lp58
+F10.0
+aF290.0
+asg21
+(itiddlywiki
+Tiddler
+p59
+(dp60
+g25
+VAn Owl Masked Watcher
+p61
+sg27
+VStoryAuthor
+p62
+sg29
+g30
+((I2015
+I8
+I31
+I10
+I1
+I19
+I0
+I243
+I1
+tp63
+(dp64
+tp65
+Rp66
+sg35
+(lp67
+sg37
+g30
+((I2015
+I8
+I28
+I18
+I49
+I52
+I4
+I240
+I1
+tp68
+(dp69
+tp70
+Rp71
+sbsa(dp72
+g18
+I00
+sg19
+(lp73
 F290.0
 aF10.0
-asg17
+asg21
 (itiddlywiki
 Tiddler
-p62
-(dp63
-g21
-VYour question is met with a calm response from The Prosecutor, [i]"You killed John Smith with a machete. You are being tried for the death of an innocent"[/i]\u000a    There are a few whispers in the crowd of Owl Masks.\u000a\u000a    [i]"Here is the evidence the State presents to prove its case"[/i], The Prosecutor said\u000a\u000a    EVIDENCE A:  \u000a    *if(stab1)\u000a      [i]You stab yourself at the side of your neck, blood spurting out, the pain being a relief.[/i]\u000a    *if(jab1)\u000a      [i]Blood spills out of your guts, the pain momentarily relieving you from the wrath of your thoughts.[/i]\u000a    *if(slash1)\u000a      [i]Blood splatters across your eyes as you momentarily blind yourself.[/i]\u000a\u000a    *if(stab2)\u000a      [i]You stab yourself, this time twisting to ensure you don't survive for long. [/i]\u000a\u000a    *if(jab2)\u000a      [i]You jab it again, this time twisting to ensure you rupture your own organs.[/i]\u000a    *if(slash2)\u000a      [i]You wildly slash across your face repeatedly, hoping to forget who you are.[/i]\u000a    [i]"Do you have anything to say?"[/i]\u000a\u000a    You realize Your actions were being tracked by someone.\u000a\u000a    You have [b]no proof[/b].\u000a\u000a\u000a[[defense|Defense]]
-p64
-sg23
+p74
+(dp75
+g25
+VYour question is met with a calm response from The Prosecutor, [i]"You killed John Smith with a machete. You are being tried for the death of an innocent"[/i]\u000a    There are a few whispers in the crowd of Owl Masks.\u000a\u000a<<OpenProof>>\u000a\u000a    [i]"Here is the evidence the State presents to prove its case"[/i], The Prosecutor said\u000a\u000a    EVIDENCE A:  \u000a    *if(stab1)\u000a      [i]You stab yourself at the side of your neck, blood spurting out, the pain being a relief.[/i]\u000a    *if(jab1)\u000a      [i]Blood spills out of your guts, the pain momentarily relieving you from the wrath of your thoughts.[/i]\u000a    *if(slash1)\u000a      [i]Blood splatters across your eyes as you momentarily blind yourself.[/i]\u000a\u000a    *if(stab2)\u000a      [i]You stab yourself, this time twisting to ensure you don't survive for long. [/i]\u000a\u000a    *if(jab2)\u000a      [i]You jab it again, this time twisting to ensure you rupture your own organs.[/i]\u000a    *if(slash2)\u000a      [i]You wildly slash across your face repeatedly, hoping to forget who you are.[/i]\u000a    [i]"Do you have anything to say?"[/i]\u000a\u000a    You realize Your actions were being tracked by someone.\u000a\u000a    You have [b]no proof[/b].\u000a\u000a\u000a[[defense|Defense]]
+p76
+sg27
 VAskAbout
-p65
-sg25
-g26
+p77
+sg29
+g30
 ((I2015
 I8
-I21
-I3
-I5
-I24
+I31
+I13
 I4
-I233
+I25
+I0
+I243
 I1
-tp66
-(dp67
-tp68
-Rp69
-sg31
-(lp70
-sg33
-g26
+tp78
+(dp79
+tp80
+Rp81
+sg35
+(lp82
+sg37
+g30
 ((I2015
 I8
 I21
@@ -200,47 +234,47 @@ I6
 I4
 I233
 I1
-tp71
-(dp72
-tp73
-Rp74
-sbsa(dp75
-g14
+tp83
+(dp84
+tp85
+Rp86
+sbsa(dp87
+g18
 I00
-sg15
-(lp76
+sg19
+(lp88
 F430.0
 aF10.0
-asg17
+asg21
 (itiddlywiki
 Tiddler
-p77
-(dp78
-g21
-V    There is silence.\u000a    The faceless Prosecutor isn't amused.\u000a\u000a    [i]"This is a court of law. You are being prosecuted for mercilessly killing an innocent named John Smith"[/i]\u000a    They give a brief pause.\u000a\u000a    The Prosecutor smiles, [i]"But we have the proof of that"[/i]\u000a\u000a    EVIDENCE A:  \u000a    *if(stab1)\u000a      You first stabbed John Smith.\u000a\u000a      [i]You stab yourself at the side of your neck, blood spurting out, the pain being a relief.[/i]\u000a    *if(jab1)\u000a      You first jabbed the weapon into John Smith.\u000a\u000a      [i]Blood spills out of your guts, the pain momentarily relieving you from the wrath of your thoughts.[/i]\u000a    *if(slash1)\u000a      You first slashed John Smith's face.\u000a\u000a      [i]Blood splatters across your eyes as you momentarily blind yourself.[/i]\u000a\u000a    *if(stab2)\u000a      You then stabbed him.\u000a\u000a      [i]You stab yourself, this time twisting to ensure you don't survive for long. [/i]\u000a\u000a    *if(jab2)\u000a      You then jabbed the weapon into John Smith.\u000a\u000a      [i]You jab it again, this time twisting to ensure you rupture your own organs.[/i]\u000a    *if(slash2)\u000a      You then slashed the weapon across his face.\u000a\u000a      [i]You wildly slash across your face repeatedly, hoping to forget who you are.[/i]\u000a\u000a    You realize Your actions were being tracked by someone.\u000a\u000a    [i]"Do you have any defense to offer for yourself?"[/i]\u000a\u000a    You have [b]no proof[/b].\u000a    *goto defense\u000a\u000a\u000a[[defense|Defense]]
-p79
-sg23
+p89
+(dp90
+g25
+V    There is silence.\u000a    The faceless Prosecutor isn't amused.\u000a\u000a    [i]"This is a court of law. You are being prosecuted for mercilessly killing an innocent named John Smith"[/i]\u000a    They give a brief pause.\u000a\u000a    The Prosecutor smiles, [i]"But we have the proof of that"[/i]\u000a<<OpenProof>>\u000a    EVIDENCE A:  \u000a    *if(stab1)\u000a      You first stabbed John Smith.\u000a\u000a      [i]You stab yourself at the side of your neck, blood spurting out, the pain being a relief.[/i]\u000a    *if(jab1)\u000a      You first jabbed the weapon into John Smith.\u000a\u000a      [i]Blood spills out of your guts, the pain momentarily relieving you from the wrath of your thoughts.[/i]\u000a    *if(slash1)\u000a      You first slashed John Smith's face.\u000a\u000a      [i]Blood splatters across your eyes as you momentarily blind yourself.[/i]\u000a\u000a    *if(stab2)\u000a      You then stabbed him.\u000a\u000a      [i]You stab yourself, this time twisting to ensure you don't survive for long. [/i]\u000a\u000a    *if(jab2)\u000a      You then jabbed the weapon into John Smith.\u000a\u000a      [i]You jab it again, this time twisting to ensure you rupture your own organs.[/i]\u000a    *if(slash2)\u000a      You then slashed the weapon across his face.\u000a\u000a      [i]You wildly slash across your face repeatedly, hoping to forget who you are.[/i]\u000a\u000a    You realize Your actions were being tracked by someone.\u000a\u000a    [i]"Do you have any defense to offer for yourself?"[/i]\u000a\u000a    You have [b]no proof[/b].\u000a    *goto defense\u000a\u000a\u000a[[Provide your defense|Defense]]
+p91
+sg27
 VLaughJoke
-p80
-sg25
-g26
+p92
+sg29
+g30
 ((I2015
 I8
-I21
-I3
-I7
-I30
-I4
-I233
+I31
+I13
+I50
+I55
+I0
+I243
 I1
-tp81
-(dp82
-tp83
-Rp84
-sg31
-(lp85
-sg33
-g26
+tp93
+(dp94
+tp95
+Rp96
+sg35
+(lp97
+sg37
+g30
 ((I2015
 I8
 I21
@@ -250,30 +284,30 @@ I50
 I4
 I233
 I1
-tp86
-(dp87
-tp88
-Rp89
-sbsa(dp90
-g14
+tp98
+(dp99
+tp100
+Rp101
+sbsa(dp102
+g18
 I00
-sg15
-(lp91
+sg19
+(lp103
 F570.0
 aF10.0
-asg17
+asg21
 (itiddlywiki
 Tiddler
-p92
-(dp93
-g21
+p104
+(dp105
+g25
 V  Your silent voice echoes against the walls of the empty courtroom.\u000a\u000a    The Prosecutor looks at you, apparently expecting a follow-up reason as to [i]why[/i] you think you're innocent.\u000a\u000a    You say...\u000a\u000a[[you had no other choice|NoChoice]]\u000a\u000a[[You were John Smith|JohnSmith]]\u000a\u000a[[You didn't kill John Smith|DidntKill]]\u000a       \u000a
-p94
-sg23
+p106
+sg27
 VPleadInnocence
-p95
-sg25
-g26
+p107
+sg29
+g30
 ((I2015
 I8
 I21
@@ -283,14 +317,14 @@ I33
 I4
 I233
 I1
-tp96
-(dp97
-tp98
-Rp99
-sg31
-(lp100
-sg33
-g26
+tp108
+(dp109
+tp110
+Rp111
+sg35
+(lp112
+sg37
+g30
 ((I2015
 I8
 I21
@@ -300,30 +334,30 @@ I50
 I4
 I233
 I1
-tp101
-(dp102
-tp103
-Rp104
-sbsa(dp105
-g14
+tp113
+(dp114
+tp115
+Rp116
+sbsa(dp117
+g18
 I00
-sg15
-(lp106
+sg19
+(lp118
 F430.0
 aF290.0
-asg17
+asg21
 (itiddlywiki
 Tiddler
-p107
-(dp108
-g21
+p119
+(dp120
+g25
 VIn your defense, you offer...\u000a\u000a[[Evidence No.1: DNA proof that You are not John Smith|Evidence1]]\u000a[[Evidence No.2: Proof that the murder weapons were in John Smith's hands|Evidence2]]\u000a\u000a[[Evidence No.3: Proof that John Smith was a murderous man|Evidence3]]\u000a\u000a[[Evidence No.4: Name the fatal wounds of John Smith|Evidence4]]\u000a\u000a[[Challenge and denounce the "Anti-Murder Law"|ChallengeLaw]]\u000a\u000a[[Eyewitness No.1: John Smith's Uncle|Eyewitness]]
-p109
-sg23
+p121
+sg27
 VDefense
-p110
-sg25
-g26
+p122
+sg29
+g30
 ((I2015
 I8
 I21
@@ -333,14 +367,14 @@ I22
 I4
 I233
 I1
-tp111
-(dp112
-tp113
-Rp114
-sg31
-(lp115
-sg33
-g26
+tp123
+(dp124
+tp125
+Rp126
+sg35
+(lp127
+sg37
+g30
 ((I2015
 I8
 I21
@@ -350,47 +384,47 @@ I41
 I4
 I233
 I1
-tp116
-(dp117
-tp118
-Rp119
-sbsa(dp120
-g14
+tp128
+(dp129
+tp130
+Rp131
+sbsa(dp132
+g18
 I00
-sg15
-(lp121
+sg19
+(lp133
 F710.0
 aF10.0
-asg17
+asg21
 (itiddlywiki
 Tiddler
-p122
-(dp123
-g21
-V        A small grin appears on the face of The Prosecutor. [i]"Do you have any proof of that?"[/i]\u000a\u000a        You have [b]no proof[/b].\u000a        *goto defense\u000a\u000a[[defense|Defense]]
-p124
-sg23
+p134
+(dp135
+g25
+V        A small grin appears on the face of The Prosecutor. [i]"Do you have any proof of that?"[/i]\u000a\u000a        You have [b]no proof[/b].\u000a        *goto defense\u000a\u000a[[Provide your defense|Defense]]
+p136
+sg27
 VJohnSmith
-p125
-sg25
-g26
+p137
+sg29
+g30
 ((I2015
 I8
-I21
-I3
+I31
 I12
-I12
-I4
-I233
+I58
+I41
+I0
+I243
 I1
-tp126
-(dp127
-tp128
-Rp129
-sg31
-(lp130
-sg33
-g26
+tp138
+(dp139
+tp140
+Rp141
+sg35
+(lp142
+sg37
+g30
 ((I2015
 I8
 I21
@@ -400,47 +434,47 @@ I54
 I4
 I233
 I1
-tp131
-(dp132
-tp133
-Rp134
-sbsa(dp135
-g14
+tp143
+(dp144
+tp145
+Rp146
+sbsa(dp147
+g18
 I00
-sg15
-(lp136
+sg19
+(lp148
 F1130.0
 aF10.0
-asg17
+asg21
 (itiddlywiki
 Tiddler
-p137
-(dp138
-g21
-V The Prosecutor smiles, [i]"But we have the proof of that"[/i]\u000a\u000a        EVIDENCE A:  \u000a        *if(stab1)\u000a          You first stabbed John Smith.\u000a\u000a          [i]You stab yourself at the side of your neck, blood spurting out, the pain being a relief.[/i]\u000a        *if(jab1)\u000a          You first jabbed the weapon into John Smith.\u000a\u000a          [i]Blood spills out of your guts, the pain momentarily relieving you from the wrath of your thoughts.[/i]\u000a        *if(slash1)\u000a          You first slashed John Smith's face.\u000a\u000a          [i]Blood splatters across your eyes as you momentarily blind yourself.[/i]\u000a\u000a        *if(stab2)\u000a          You then stabbed him.\u000a\u000a          [i]You stab yourself, this time twisting to ensure you don't survive for long. [/i]\u000a\u000a        *if(jab2)\u000a          You then jabbed the weapon into John Smith.\u000a\u000a          [i]You jab it again, this time twisting to ensure you rupture your own organs.[/i]\u000a        *if(slash2)\u000a          You then slashed the weapon across his face.\u000a\u000a          [i]You wildly slash across your face repeatedly, hoping to forget who you are.[/i]\u000a        [i]"Do you have anything to say?"[/i]\u000a\u000a        You realize Your actions were being tracked by someone.\u000a\u000a        You have [b]no proof[/b].\u000a        *goto defense\u000a\u000a\u000a[[defense|Defense]]
-p139
-sg23
+p149
+(dp150
+g25
+V The Prosecutor smiles, [i]"But we have the proof of that"[/i]\u000a<<OpenProof>>\u000a        EVIDENCE A:  \u000a        *if(stab1)\u000a          You first stabbed John Smith.\u000a\u000a          [i]You stab yourself at the side of your neck, blood spurting out, the pain being a relief.[/i]\u000a        *if(jab1)\u000a          You first jabbed the weapon into John Smith.\u000a\u000a          [i]Blood spills out of your guts, the pain momentarily relieving you from the wrath of your thoughts.[/i]\u000a        *if(slash1)\u000a          You first slashed John Smith's face.\u000a\u000a          [i]Blood splatters across your eyes as you momentarily blind yourself.[/i]\u000a\u000a        *if(stab2)\u000a          You then stabbed him.\u000a\u000a          [i]You stab yourself, this time twisting to ensure you don't survive for long. [/i]\u000a\u000a        *if(jab2)\u000a          You then jabbed the weapon into John Smith.\u000a\u000a          [i]You jab it again, this time twisting to ensure you rupture your own organs.[/i]\u000a        *if(slash2)\u000a          You then slashed the weapon across his face.\u000a\u000a          [i]You wildly slash across your face repeatedly, hoping to forget who you are.[/i]\u000a        [i]"Do you have anything to say?"[/i]\u000a\u000a        You realize Your actions were being tracked by someone.\u000a\u000a        You have [b]no proof[/b].\u000a        *goto defense\u000a\u000a\u000a[[Provide your own defense|Defense]]
+p151
+sg27
 VDidntKill
-p140
-sg25
-g26
+p152
+sg29
+g30
 ((I2015
 I8
-I21
-I3
-I12
-I44
-I4
-I233
+I31
+I13
+I48
+I58
+I0
+I243
 I1
-tp141
-(dp142
-tp143
-Rp144
-sg31
-(lp145
-sg33
-g26
+tp153
+(dp154
+tp155
+Rp156
+sg35
+(lp157
+sg37
+g30
 ((I2015
 I8
 I21
@@ -450,47 +484,47 @@ I54
 I4
 I233
 I1
-tp146
-(dp147
-tp148
-Rp149
-sbsa(dp150
-g14
+tp158
+(dp159
+tp160
+Rp161
+sbsa(dp162
+g18
 I00
-sg15
-(lp151
+sg19
+(lp163
 F850.0
 aF10.0
-asg17
+asg21
 (itiddlywiki
 Tiddler
-p152
-(dp153
-g21
-V        The Prosecutor shakes their head. [i]"You did, but you didn't realize that you could take it?"[/i]\u000a\u000a        You have [b]no proof[/b].\u000a\u000a        *goto defense\u000a\u000a\u000a[[defense|Defense]]
-p154
-sg23
+p164
+(dp165
+g25
+V        The Prosecutor shakes their head. [i]"You did, but you didn't realize that you could take it?"[/i]\u000a\u000a        You have [b]no proof[/b].\u000a\u000a        *goto defense\u000a\u000a\u000a[[Provide your defense|Defense]]
+p166
+sg27
 VNoChoice
-p155
-sg25
-g26
+p167
+sg29
+g30
 ((I2015
 I8
-I21
-I3
-I11
-I51
-I4
-I233
+I31
+I12
+I59
+I41
+I0
+I243
 I1
-tp156
-(dp157
-tp158
-Rp159
-sg31
-(lp160
-sg33
-g26
+tp168
+(dp169
+tp170
+Rp171
+sg35
+(lp172
+sg37
+g30
 ((I2015
 I8
 I21
@@ -500,47 +534,47 @@ I54
 I4
 I233
 I1
-tp161
-(dp162
-tp163
-Rp164
-sbsa(dp165
-g14
+tp173
+(dp174
+tp175
+Rp176
+sbsa(dp177
+g18
 I00
-sg15
-(lp166
+sg19
+(lp178
 F570.0
 aF290.0
-asg17
+asg21
 (itiddlywiki
 Tiddler
-p167
-(dp168
-g21
-V The Prosecutor smiles, [i]"Nice one, there! You thought you were being smart with that one, didn't you?"[/i]\u000a    Those in Owl Masks look at The Prosecutor, waiting with bated breath.\u000a\u000a    [i]"But alas, you have a fundamental misunderstanding. This case holds that You and John Smith are distinct entities, and that You murdered him."[/i]\u000a\u000a    How did You make such a basic mistake?\u000a\u000a    What would your next move be?\u000a    *set honesty false\u000a\u000a[[Defense|Defense]]
-p169
-sg23
+p179
+(dp180
+g25
+V The Prosecutor smiles, [i]"Nice one, there! You thought you were being smart with that one, didn't you?"[/i]\u000a    Those in Owl Masks look at The Prosecutor, waiting with bated breath.\u000a\u000a    [i]"But alas, you have a fundamental misunderstanding. This case holds that You and John Smith are distinct entities, and that You murdered him."[/i]\u000a\u000a    How did You make such a basic mistake?\u000a\u000a    What would your next move be?\u000a    *set honesty false\u000a\u000a[[Pursue another line of defense|Defense]]
+p181
+sg27
 VEvidence1
-p170
-sg25
-g26
+p182
+sg29
+g30
 ((I2015
 I8
-I21
-I4
-I48
-I35
-I4
-I233
+I31
+I15
+I11
+I9
+I0
+I243
 I1
-tp171
-(dp172
-tp173
-Rp174
-sg31
-(lp175
-sg33
-g26
+tp183
+(dp184
+tp185
+Rp186
+sg35
+(lp187
+sg37
+g30
 ((I2015
 I8
 I21
@@ -550,47 +584,47 @@ I40
 I4
 I233
 I1
-tp176
-(dp177
-tp178
-Rp179
-sbsa(dp180
-g14
+tp188
+(dp189
+tp190
+Rp191
+sbsa(dp192
+g18
 I00
-sg15
-(lp181
+sg19
+(lp193
 F710.0
 aF290.0
-asg17
+asg21
 (itiddlywiki
 Tiddler
-p182
-(dp183
-g21
-V//needs restructuring\u000a\u000aYou couldn't tell from the faceless features of The Prosecutor, but when they spoke they appeared unperturbed by your statement, \u000a\u000a    [i]"Please present the proof"[/i]\u000a\u000a\u000a    A faint memory resurfaces:\u000a    [b][i]'In your hands is a...'[/i][/b]\u000a\u000a\u000a//text field here\u000a\u000a\u000a    [b]Presenting Evidence No.2[/b]\u000a    *input_text evidence2\u000a    You present:\u000a\u000a    [i]${evidence2}[/i]\u000a\u000a    *if (weapon=1)\u000a      *if(evidence2="machete")\u000a\u000a        There are gasps in the crowd of Owl Masks.\u000a        Judging from their reaction, The Prosecutor appears to be taken aback as well.\u000a        *goto next\u000a      [i]"Nope, that proof is clearly inaccurate and not pertaining to the [b]actual text[/b]"[/i]\u000a      *goto defense\u000a\u000a    *if (weapon=2)\u000a      *if(evidence2="wooden club")\u000a        There are gasps in the crowd of Owl Masks.\u000a        Judging from their reaction, The Prosecutor appears to be taken aback as well.\u000a        *goto next\u000a      The Prosecutor shakes their head.\u000a      [i]"Nope, that proof is clearly inaccurate and not pertaining to the [b]actual text[/b]"[/i]\u000a\u000a\u000a      *goto defense\u000a\u000a    *goto defense\u000a
-p184
-sg23
+p194
+(dp195
+g25
+V/*Made in ChoiceScript */\u000a\u000aYou couldn't tell from the faceless features of The Prosecutor, but when they spoke they appeared unperturbed by your statement, \u000a\u000a    [i]"Please present the proof"[/i]\u000a\u000a\u000a    A faint memory resurfaces:\u000a    [b][i]'In your hands is a...'[/i][/b]\u000a\u000a//insert text field here//\u000a\u000a    [b]Presenting Evidence No.2[/b]\u000a    *input_text evidence2\u000a    You present:\u000a\u000a    [i]${evidence2}[/i]\u000a\u000a    *if (weapon=1)\u000a      *if(evidence2="machete")\u000a\u000a        There are gasps in the crowd of Owl Masks.\u000a        Judging from their reaction, The Prosecutor appears to be taken aback as well.\u000a        *goto next\u000a[[You obey and goto the Next|Next]]\u000a      [i]"Nope, that proof is clearly inaccurate and not pertaining to the [b][[actual text|Defense]][/b]"[/i]\u000a\u000a    *if (weapon=2)\u000a      *if(evidence2="wooden club")\u000a        There are gasps in the crowd of Owl Masks.\u000a        Judging from their reaction, The Prosecutor appears to be taken aback as well.\u000a        *goto next\u000a[[Strange...you obey and goto another Next|Next]]\u000a      The Prosecutor shakes their head.\u000a      [i]"Nope, that proof is clearly inaccurate and not pertaining to the [b]actual text[/b]"[/i]\u000a\u000a\u000a      [[Provide your defense|Defense]]\u000a\u000a    [[Continue providing your defense|Defense]]\u000a
+p196
+sg27
 VEvidence2
-p185
-sg25
-g26
+p197
+sg29
+g30
 ((I2015
 I8
-I21
-I5
+I31
+I13
+I40
+I53
 I0
-I56
-I4
-I233
+I243
 I1
-tp186
-(dp187
-tp188
-Rp189
-sg31
-(lp190
-sg33
-g26
+tp198
+(dp199
+tp200
+Rp201
+sg35
+(lp202
+sg37
+g30
 ((I2015
 I8
 I21
@@ -600,47 +634,47 @@ I41
 I4
 I233
 I1
-tp191
-(dp192
-tp193
-Rp194
-sbsa(dp195
-g14
+tp203
+(dp204
+tp205
+Rp206
+sbsa(dp207
+g18
 I00
-sg15
-(lp196
+sg19
+(lp208
 F710.0
 aF150.0
-asg17
+asg21
 (itiddlywiki
 Tiddler
-p197
-(dp198
-g21
-V//needs restructuring\u000a\u000aThere were surprised gasps from the crowd of Owl Masks. The Prosecutor had no reaction by your statement,\u000a\u000a    [i]"And pray, do you have any proof of that?"[/i]\u000a\u000a    A faint memory surfaces: \u000a    [i]"You are John Smith, an ordinary man with a disturbing obsession."[/i]\u000a\u000a    [b]Presenting Evidence No.3[/b]\u000a    *input_text evidence3\u000a    You present:\u000a\u000a    [i]${evidence3}[/i]\u000a\u000a    *if (evidence3="You are wanted for 400 homicides")\u000a      There is a loud gasp somewhere within the sea of Owl Masks.\u000a      The Prosecutor appears to be unsettled too, but tries to maintain his composure.\u000a      *goto next\u000a    The Prosecutor shakes their head.\u000a    [i]"Nope, that proof is clearly inaccurate and not pertaining to the [b]actual text[/b]"[/i]\u000a    *goto defense\u000a
-p199
-sg23
+p209
+(dp210
+g25
+V/*Made in ChoiceScript */\u000a\u000aThere were surprised gasps from the crowd of Owl Masks. The Prosecutor had no reaction by your statement,\u000a\u000a    [i]"And pray, do you have any proof of that?"[/i]\u000a\u000a    A faint memory surfaces: \u000a    <em>"You are John Smith, an ordinary man with a disturbing obsession."</em>\u000a\u000a    [b]Presenting Evidence No.3[/b]\u000a    *input_text evidence3\u000a    You present:\u000a\u000a    [i]${evidence3}[/i]\u000a\u000a    *if (evidence3="You are wanted for 400 homicides")\u000a      There is a loud gasp somewhere within the sea of Owl Masks.\u000a      The Prosecutor appears to be unsettled too, but tries to maintain his composure.\u000a      *goto next\u000a[[You follow the goto to Next|Next]]\u000a    The Prosecutor shakes their head.\u000a    [i]"Nope, that proof is clearly inaccurate and not pertaining to the [b][[actual text|Defense]][/b]"[/i]\u000a    *goto defense\u000a[[Pursue another line of defense|Defense]]
+p211
+sg27
 VEvidence3
-p200
-sg25
-g26
+p212
+sg29
+g30
 ((I2015
 I8
-I21
-I5
-I2
-I11
-I4
-I233
+I31
+I13
+I50
+I36
+I0
+I243
 I1
-tp201
-(dp202
-tp203
-Rp204
-sg31
-(lp205
-sg33
-g26
+tp213
+(dp214
+tp215
+Rp216
+sg35
+(lp217
+sg37
+g30
 ((I2015
 I8
 I21
@@ -650,47 +684,47 @@ I41
 I4
 I233
 I1
-tp206
-(dp207
-tp208
-Rp209
-sbsa(dp210
-g14
+tp218
+(dp219
+tp220
+Rp221
+sbsa(dp222
+g18
 I00
-sg15
-(lp211
+sg19
+(lp223
 F850.0
 aF150.0
-asg17
+asg21
 (itiddlywiki
 Tiddler
-p212
-(dp213
-g21
-VThere are collective hoots in the courtroom from the sea of Owl Masks. \u000a\u000a    You see the posture of The Prosecutor become a bit more relaxed, giving you a sense that you may not have made the wisest choice.\u000a\u000a    [i]"Please, tell us. How and why are we wrong to abolish murder and incriminate those who commit such acts?"[/i]\u000a\u000a    You don't quite know how to answer that.\u000a    Silence descends upon the Courtroom as you wait. For something.\u000a\u000a    A choice suddenly appears in front of you:\u000a\u000a[[Because the way you treat the Addicted isn't any better than murder|TreatAddicted]]\u000a       \u000a  [[Because hiding behind these facades is worse than living under constant, certain threat|HideFacades]]\u000a\u000a      [[Because murder...it just feels *so* good|MurderGood]]\u000a        
-p214
-sg23
+p224
+(dp225
+g25
+VThere are collective hoots in the courtroom from the sea of Owl Masks. \u000a\u000a    You see the posture of The Prosecutor become a bit more relaxed, giving you a sense that you may not have made the wisest choice.\u000a\u000a    [i]"Please, tell us. How and why are we wrong to abolish murder and incriminate those who commit such acts?"[/i]\u000a\u000a    You don't quite know how to answer that.\u000a    Silence descends upon the Courtroom as you wait. For something.\u000a\u000a    A choice suddenly appears in front of you:\u000a\u000a[[Because the way you treat the Addicted isn't any better than murder|TreatAddicted]]\u000a       \u000a[[Because hiding behind these facades is worse than living under constant, certain threat|HideFacades]]\u000a\u000a[[Because murder...it just feels *so* good|MurderGood]]\u000a        
+p226
+sg27
 VChallengeLaw
-p215
-sg25
-g26
+p227
+sg29
+g30
 ((I2015
 I8
-I21
-I5
-I47
-I51
-I4
-I233
+I31
+I13
+I48
+I16
+I0
+I243
 I1
-tp216
-(dp217
-tp218
-Rp219
-sg31
-(lp220
-sg33
-g26
+tp228
+(dp229
+tp230
+Rp231
+sg35
+(lp232
+sg37
+g30
 ((I2015
 I8
 I21
@@ -700,47 +734,47 @@ I41
 I4
 I233
 I1
-tp221
-(dp222
-tp223
-Rp224
-sbsa(dp225
-g14
+tp233
+(dp234
+tp235
+Rp236
+sbsa(dp237
+g18
 I00
-sg15
-(lp226
+sg19
+(lp238
 F990.0
 aF150.0
-asg17
+asg21
 (itiddlywiki
 Tiddler
-p227
-(dp228
-g21
-V Amid some high-pitched hoots from the crowd of Owl Masks, The Prosecutor laughed, "You're not very good at this, are you?"\u000a\u000a    [i]"Naming the fatal wounds implicates you closer to the crime. It's something that obviously a murderer would know"[/i]\u000a\u000a    Wrong move. \u000a\u000a    You should tread more carefully around The Prosecutor if You plan on saving your neck.\u000a\u000a[[defense|Defense]]
-p229
-sg23
+p239
+(dp240
+g25
+V Amid some high-pitched hoots from the crowd of Owl Masks, The Prosecutor laughed, "You're not very good at this, are you?"\u000a\u000a    <em>"Naming the fatal wounds implicates you closer to the crime. It's something that obviously a murderer would know"</em>\u000a\u000a    Wrong move. \u000a\u000a    You should tread more carefully around The Prosecutor if You plan on saving your neck.\u000a\u000a[[Provide your defense|Defense]]
+p241
+sg27
 VEvidence4
-p230
-sg25
-g26
+p242
+sg29
+g30
 ((I2015
 I8
-I21
-I5
-I9
-I54
-I4
-I233
+I31
+I13
+I48
+I38
+I0
+I243
 I1
-tp231
-(dp232
-tp233
-Rp234
-sg31
-(lp235
-sg33
-g26
+tp243
+(dp244
+tp245
+Rp246
+sg35
+(lp247
+sg37
+g30
 ((I2015
 I8
 I21
@@ -750,47 +784,47 @@ I43
 I4
 I233
 I1
-tp236
-(dp237
-tp238
-Rp239
-sbsa(dp240
-g14
+tp248
+(dp249
+tp250
+Rp251
+sbsa(dp252
+g18
 I00
-sg15
-(lp241
+sg19
+(lp253
 F1130.0
 aF150.0
-asg17
+asg21
 (itiddlywiki
 Tiddler
-p242
-(dp243
-g21
-VA door opens on the other side of the courtroom and John Smith's Uncle steps in. \u000a    He has completely unremarkable features but you know he is John Smith's Uncle.\u000a\u000a    The Prosecutor looks at you and says,[i]"So, you can ask him just [b]one question[/b]. What would it be?"[/i]\u000a\u000a    Looking at John Smith's Uncle, You ask...\u000a\u000a[[Am I John Smith?|AmIJohnSmith]]\u000a        \u000a    [[Is John Smith an innocent man or an Addicted?|SmithAddicted]]\u000a        \u000a        
-p244
-sg23
+p254
+(dp255
+g25
+VA door opens on the other side of the courtroom and John Smith's Uncle steps in. \u000a    He has completely unremarkable features but you know he is John Smith's Uncle.\u000a\u000a    The Prosecutor looks at you and says,[i]"So, you can ask him just [b]one question[/b]. What would it be?"[/i]\u000a\u000a    Looking at John Smith's Uncle, You ask...\u000a\u000a[[Am I John Smith?|AmIJohnSmith]]\u000a        \u000a[[Is John Smith an innocent man or an Addicted?|SmithAddicted]]\u000a        \u000a        
+p256
+sg27
 VEyewitness
-p245
-sg25
-g26
+p257
+sg29
+g30
 ((I2015
 I8
-I21
-I5
-I54
+I31
+I13
 I48
-I4
-I233
+I45
+I0
+I243
 I1
-tp246
-(dp247
-tp248
-Rp249
-sg31
-(lp250
-sg33
-g26
+tp258
+(dp259
+tp260
+Rp261
+sg35
+(lp262
+sg37
+g30
 ((I2015
 I8
 I21
@@ -800,47 +834,47 @@ I43
 I4
 I233
 I1
-tp251
-(dp252
-tp253
-Rp254
-sbsa(dp255
-g14
+tp263
+(dp264
+tp265
+Rp266
+sbsa(dp267
+g18
 I00
-sg15
-(lp256
+sg19
+(lp268
 F710.0
 aF430.0
-asg17
+asg21
 (itiddlywiki
 Tiddler
-p257
-(dp258
-g21
-V There are few whispers among the crowd of Owl Masks, but most are awaiting for a response from The Prosecutor.\u000a        The Prosecutor had been elevated to a status of defending the stance the entire society had taken towards the Addicted.\u000a\u000a        Clearing their throat, they responded, [i]"Perhaps. But would you dehumanize those who treat everyone as critters meant to be killed and mutilated?"[/i]\u000a\u000a        A small pause.\u000a\u000a        [i]"Or would you rather have them given full human rights while excluding *their* crimes from the law"[/i]\u000a\u000a        There were a large number of angry hoots rising from the crowd upon hearing the last sentence.\u000a\u000a        The Prosecutor shrugged their shoulders,\u000a        [i]"The Society makes the law. And they've clearly decided what's right and what's wrong"[/i]\u000a\u000a        You try to argue but You have no choice to do so in front of you.\u000a\u000a        But you feel something fundamental has changed.\u000a\u000a        *set blame true\u000a\u000a        *goto defense\u000a\u000a[[defense|Defense]]\u000a
-p259
-sg23
+p269
+(dp270
+g25
+V There are few whispers among the crowd of Owl Masks, but most are awaiting for a response from The Prosecutor.\u000a        The Prosecutor had been elevated to a status of defending the stance the entire society had taken towards the Addicted.\u000a\u000a        Clearing their throat, they responded, [i]"Perhaps. But would you dehumanize those who treat everyone as critters meant to be killed and mutilated?"[/i]\u000a\u000a        A small pause.\u000a\u000a        [i]"Or would you rather have them given full human rights while excluding *their* crimes from the law"[/i]\u000a\u000a        There were a large number of angry hoots rising from the crowd upon hearing the last sentence.\u000a\u000a        The Prosecutor shrugged their shoulders,\u000a        [i]"The Society makes the law. And they've clearly decided what's right and what's wrong"[/i]\u000a\u000a        You try to argue but You have no choice to do so in front of you.\u000a\u000a        But you feel something fundamental has changed.\u000a\u000a        *set blame true\u000a//This is vague//\u000a        *goto defense\u000a[[Provide another line of defense|Defense]]\u000a
+p271
+sg27
 VTreatAddicted
-p260
-sg25
-g26
+p272
+sg29
+g30
 ((I2015
 I8
-I21
-I5
-I49
-I14
-I4
-I233
+I31
+I13
+I42
+I56
+I0
+I243
 I1
-tp261
-(dp262
-tp263
-Rp264
-sg31
-(lp265
-sg33
-g26
+tp273
+(dp274
+tp275
+Rp276
+sg35
+(lp277
+sg37
+g30
 ((I2015
 I8
 I21
@@ -850,30 +884,30 @@ I40
 I4
 I233
 I1
-tp266
-(dp267
-tp268
-Rp269
-sbsa(dp270
-g14
+tp278
+(dp279
+tp280
+Rp281
+sbsa(dp282
+g18
 I00
-sg15
-(lp271
+sg19
+(lp283
 F850.0
 aF290.0
-asg17
+asg21
 (itiddlywiki
 Tiddler
-p272
-(dp273
-g21
+p284
+(dp285
+g25
 V There are some confused whispers in the crowd of Owl Masks, but most are awaiting for a response from The Prosecutor.\u000a        The Prosecutor had been elevated to a status of defending the stance the entire society had taken towards the Addicted.\u000a\u000a        Clearing their throat, they responded, [i]"In what way is living under a constant threat is better?"\u000a[[Being constantly aware of your mortality, drives you to utilize your life better|Mortality]]\u000a  \u000a          [[We're always aware of what's at stake, and we learn to cherish it more|Stake]]\u000a
-p274
-sg23
+p286
+sg27
 VHideFacades
-p275
-sg25
-g26
+p287
+sg29
+g30
 ((I2015
 I8
 I21
@@ -883,14 +917,14 @@ I2
 I4
 I233
 I1
-tp276
-(dp277
-tp278
-Rp279
-sg31
-(lp280
-sg33
-g26
+tp288
+(dp289
+tp290
+Rp291
+sg35
+(lp292
+sg37
+g30
 ((I2015
 I8
 I21
@@ -900,30 +934,30 @@ I40
 I4
 I233
 I1
-tp281
-(dp282
-tp283
-Rp284
-sbsa(dp285
-g14
+tp293
+(dp294
+tp295
+Rp296
+sbsa(dp297
+g18
 I00
-sg15
-(lp286
+sg19
+(lp298
 F710.0
 aF570.0
-asg17
+asg21
 (itiddlywiki
 Tiddler
-p287
-(dp288
-g21
+p299
+(dp300
+g25
 V\u000a          The Prosecutor responds,[i]"Does all of that even matter if we're worrying about it all the time?"[/i]\u000a\u000a          You try to argue but You have no choice to do so in front of you.\u000a\u000a          But you feel something fundamental has changed.\u000a\u000a          *set blame true\u000a\u000a          *goto defense \u000a\u000a[[defense|Defense]]
-p289
-sg23
+p301
+sg27
 VStake
-p290
-sg25
-g26
+p302
+sg29
+g30
 ((I2015
 I8
 I21
@@ -933,14 +967,14 @@ I11
 I4
 I233
 I1
-tp291
-(dp292
-tp293
-Rp294
-sg31
-(lp295
-sg33
-g26
+tp303
+(dp304
+tp305
+Rp306
+sg35
+(lp307
+sg37
+g30
 ((I2015
 I8
 I21
@@ -950,30 +984,30 @@ I41
 I4
 I233
 I1
-tp296
-(dp297
-tp298
-Rp299
-sbsa(dp300
-g14
+tp308
+(dp309
+tp310
+Rp311
+sbsa(dp312
+g18
 I00
-sg15
-(lp301
+sg19
+(lp313
 F990.0
 aF290.0
-asg17
+asg21
 (itiddlywiki
 Tiddler
-p302
-(dp303
-g21
+p314
+(dp315
+g25
 VThere's a pin-drop silence in the courtroom as you finish your statement.\u000a        The Prosecutor seemed to be grinning from under their faceless mask.\u000a\u000a        [i]"And...do you admit that killing John Smith felt equally good?"[/i]\u000a\u000a[[..Yes|MurderYes]]\u000a\u000a[[...|Silence]]\u000a            
-p304
-sg23
+p316
+sg27
 VMurderGood
-p305
-sg25
-g26
+p317
+sg29
+g30
 ((I2015
 I8
 I21
@@ -983,14 +1017,14 @@ I2
 I4
 I233
 I1
-tp306
-(dp307
-tp308
-Rp309
-sg31
-(lp310
-sg33
-g26
+tp318
+(dp319
+tp320
+Rp321
+sg35
+(lp322
+sg37
+g30
 ((I2015
 I8
 I21
@@ -1000,47 +1034,47 @@ I59
 I4
 I233
 I1
-tp311
-(dp312
-tp313
-Rp314
-sbsa(dp315
-g14
+tp323
+(dp324
+tp325
+Rp326
+sbsa(dp327
+g18
 I00
-sg15
-(lp316
+sg19
+(lp328
 F850.0
 aF430.0
-asg17
+asg21
 (itiddlywiki
 Tiddler
-p317
-(dp318
-g21
-V            There was an angry shriek from the crowd, followed by a wave of loud hoots from the sea of Owl Masks.\u000a            *goto wrap\u000a          \u000a            *label wrap\u000a\u000a            The Prosecutor shook his head at You, and then turned towards the empty chair of the Judge.\u000a\u000a            [i]"My lord, we have gone through incredibly dark times. The sooner we punish the Addicted like this one who stands before us today, the better we are off as a society. We can move on, putting this as a dark past of our history. A stark warning to those who ever thought that the solution to existential crises stemming from a long life would be to unleash our primal instincts."[/i]\u000a\u000a            They pointed at You, shouting to the crowd of Owl Masks:\u000a            [i]"Here, we have someone who never thought twice of the choices offered to them. This one never thought to question the choices their programmed mind lay in front of them. They never looked at the Society and wondered the gravity of their own actions."[/i]\u000a\u000a            Looking at the empty Judge chair, the Prosecutor shouted:\u000a            [i]"I ask for a death penalty for this Addicted One, my lord. Free this world of another soul from our tainted past. Relieve us from the uncertainty of death at the hands of these monsters. End this one, now"[/i]\u000a\u000a            An invisible hammer slams on the table with a dull thud.\u000a\u000a            Your Fate is sealed.\u000a            *goto death\u000a\u000a            *label death\u000a\u000a            You may not have made the wisest choices. \u000a\u000a            But they were still Your own choices.\u000a\u000a            [i]Apparently.[/i]\u000a\u000a            As You're seated in the electric chair and feel the shock coursing through your veins, you feel that somewhere you made [b]a mistake[/b].\u000a\u000a            *finish\u000a
-p319
-sg23
+p329
+(dp330
+g25
+V            There was an angry shriek from the crowd, followed by a wave of loud hoots from the sea of Owl Masks.\u000a            *goto wrap\u000a          [[You silently goto Wrap|Wrap]]\u000a            *label wrap\u000a//this is Wrap//\u000a            The Prosecutor shook his head at You, and then turned towards the empty chair of the Judge.\u000a\u000a            <em>"My lord, we have gone through incredibly dark times. The sooner we punish the Addicted like this one who stands before us today, the better we are off as a society. We can move on, putting this as a dark past of our history. A stark warning to those who ever thought that the solution to existential crises stemming from a long life would be to unleash our primal instincts."</em>\u000a\u000a            They pointed at You, shouting to the crowd of Owl Masks:\u000a            <em>"Here, we have someone who never thought twice of the choices offered to them. This one never thought to question the choices their programmed mind lay in front of them. They never looked at the Society and wondered the gravity of their own actions."</em>\u000a\u000a            Looking at the empty Judge chair, the Prosecutor shouted:\u000a            <em>"I ask for a death penalty for this Addicted One, my lord. Free this world of another soul from our tainted past. Relieve us from the uncertainty of death at the hands of these monsters. End this one, now"</em>\u000a\u000a            An invisible hammer slams on the table with a dull thud.\u000a//            *goto death\u000a//\u000a            [[Your Fate is sealed|YourDeath]].\u000a
+p331
+sg27
 VMurderYes
-p320
-sg25
-g26
+p332
+sg29
+g30
 ((I2015
 I8
-I21
-I5
-I43
-I17
-I4
-I233
+I31
+I13
+I45
+I39
+I0
+I243
 I1
-tp321
-(dp322
-tp323
-Rp324
-sg31
-(lp325
-sg33
-g26
+tp333
+(dp334
+tp335
+Rp336
+sg35
+(lp337
+sg37
+g30
 ((I2015
 I8
 I21
@@ -1050,47 +1084,47 @@ I16
 I4
 I233
 I1
-tp326
-(dp327
-tp328
-Rp329
-sbsa(dp330
-g14
+tp338
+(dp339
+tp340
+Rp341
+sbsa(dp342
+g18
 I00
-sg15
-(lp331
+sg19
+(lp343
 F1130.0
 aF290.0
-asg17
+asg21
 (itiddlywiki
 Tiddler
-p332
-(dp333
-g21
-VThere was an angry shriek from the crowd shouting, [b][i]"Say something, you monster!"[/i][/b]\u000a            It was followed by a wave of loud hoots from the sea of Owl Masks.\u000aThere was an angry shriek from the crowd, followed by a wave of loud hoots from the sea of Owl Masks.\u000a\u000a            The Prosecutor shook his head at You, and then turned towards the empty chair of the Judge.\u000a\u000a            [i]"My lord, we have gone through incredibly dark times. The sooner we punish the Addicted like this one who stands before us today, the better we are off as a society. We can move on, putting this as a dark past of our history. A stark warning to those who ever thought that the solution to existential crises stemming from a long life would be to unleash our primal instincts."[/i]\u000a\u000a            They pointed at You, shouting to the crowd of Owl Masks:\u000a            [i]"Here, we have someone who never thought twice of the choices offered to them. This one never thought to question the choices their programmed mind lay in front of them. They never looked at the Society and wondered the gravity of their own actions."[/i]\u000a\u000a            Looking at the empty Judge chair, the Prosecutor shouted:\u000a            [i]"I ask for a death penalty for this Addicted One, my lord. Free this world of another soul from our tainted past. Relieve us from the uncertainty of death at the hands of these monsters. End this one, now"[/i]\u000a\u000a            An invisible hammer slams on the table with a dull thud.\u000a\u000a            Your Fate is sealed.\u000a            *goto death\u000a\u000a            *label death\u000a\u000a            You may not have made the wisest choices. \u000a\u000a            But they were still Your own choices.\u000a\u000a            [i]Apparently.[/i]\u000a\u000a            As You're seated in the electric chair and feel the shock coursing through your veins, you feel that somewhere you made [b]a mistake[/b].\u000a\u000a            *finish\u000a
-p334
-sg23
+p344
+(dp345
+g25
+V/*Made in ChoiceScript*/\u000a\u000aThere was an angry shriek from the crowd shouting, [b][i]"Say something, you monster!"[/i][/b]\u000a            It was followed by a wave of loud hoots from the sea of Owl Masks.\u000aThere was an angry shriek from the crowd, followed by a wave of loud hoots from the sea of Owl Masks.\u000a\u000a            The Prosecutor shook his head at You, and then turned towards the empty chair of the Judge.\u000a\u000a            [i]"My lord, we have gone through incredibly dark times. The sooner we punish the Addicted like this one who stands before us today, the better we are off as a society. We can move on, putting this as a dark past of our history. A stark warning to those who ever thought that the solution to existential crises stemming from a long life would be to unleash our primal instincts."[/i]\u000a\u000a            They pointed at You, shouting to the crowd of Owl Masks:\u000a            [i]"Here, we have someone who never thought twice of the choices offered to them. This one never thought to question the choices their programmed mind lay in front of them. They never looked at the Society and wondered the gravity of their own actions."[/i]\u000a\u000a            Looking at the empty Judge chair, the Prosecutor shouted:\u000a            [i]"I ask for a death penalty for this Addicted One, my lord. Free this world of another soul from our tainted past. Relieve us from the uncertainty of death at the hands of these monsters. End this one, now"[/i]\u000a\u000a            An invisible hammer slams on the table with a dull thud.\u000a\u000a            [[Your Fate is sealed|YourDeath]]
+p346
+sg27
 VSilence
-p335
-sg25
-g26
+p347
+sg29
+g30
 ((I2015
 I8
-I21
-I5
+I31
+I13
 I43
-I30
-I4
-I233
+I44
+I0
+I243
 I1
-tp336
-(dp337
-tp338
-Rp339
-sg31
-(lp340
-sg33
-g26
+tp348
+(dp349
+tp350
+Rp351
+sg35
+(lp352
+sg37
+g30
 ((I2015
 I8
 I21
@@ -1100,80 +1134,80 @@ I18
 I4
 I233
 I1
-tp341
-(dp342
-tp343
-Rp344
-sbsa(dp345
-g14
+tp353
+(dp354
+tp355
+Rp356
+sbsa(dp357
+g18
 I00
-sg15
-(lp346
+sg19
+(lp358
 F990.0
 aF430.0
-asg17
+asg21
 (itiddlywiki
 Tiddler
-p347
-(dp348
-g21
-V\u000a          The Prosecutor responds,[i]"But is it really worth being so aware of mortality all the time. We'll be self-paralyzed most of the time"[/i]\u000a\u000a          You try to argue but You have no choice to do so in front of you.\u000a\u000a          But you feel something fundamental has changed.\u000a\u000a          *set blame true\u000a\u000a          *goto defense\u000a\u000a[[defense|Defense]]\u000a
-p349
-sg23
+p359
+(dp360
+g25
+V\u000a          The Prosecutor responds,[i]"But is it really worth being so aware of mortality all the time. We'll be self-paralyzed most of the time"[/i]\u000a\u000a          You try to argue but You have no choice to do so in front of you.\u000a\u000a          But you feel something fundamental has changed.\u000a//this is vague//\u000a          *set blame true\u000a\u000a          *goto defense\u000a\u000a[[Provide another line of defense|Defense]]\u000a
+p361
+sg27
 VMortality
-p350
-sg25
-g26
+p362
+sg29
+g30
+((I2015
+I8
+I31
+I13
+I42
+I35
+I0
+I243
+I1
+tp363
+(dp364
+tp365
+Rp366
+sg35
+(lp367
+sg37
+g30
 ((I2015
 I8
 I21
 I5
 I48
-I25
-I4
-I233
-I1
-tp351
-(dp352
-tp353
-Rp354
-sg31
-(lp355
-sg33
-g26
-((I2015
-I8
-I21
-I5
-I48
 I8
 I4
 I233
 I1
-tp356
-(dp357
-tp358
-Rp359
-sbsa(dp360
-g14
+tp368
+(dp369
+tp370
+Rp371
+sbsa(dp372
+g18
 I00
-sg15
-(lp361
+sg19
+(lp373
 F1270.0
 aF430.0
-asg17
+asg21
 (itiddlywiki
 Tiddler
-p362
-(dp363
-g21
+p374
+(dp375
+g25
 VThe Uncle replies, [i]"No, you are not John Smith"[/i]\u000a\u000a        The Prosecutor seemed unfazed behind their faceless mask,\u000a\u000a        [i]"I think we had already established that! You and John Smith are two different people, and that You murdered him"[/i]\u000a\u000a        The Prosecutor is taking Your argument around in circles. \u000a\u000a        You get a sense that this is a deeply manipulated case, with seemingly every odd stacked against you.\u000a\u000a        You are clearly not going to get any further pursuing this line of inquiry.\u000a\u000a[[defense|Defense]]\u000a
-p364
-sg23
+p376
+sg27
 VAmIJohnSmith
-p365
-sg25
-g26
+p377
+sg29
+g30
 ((I2015
 I8
 I21
@@ -1183,14 +1217,14 @@ I51
 I4
 I233
 I1
-tp366
-(dp367
-tp368
-Rp369
-sg31
-(lp370
-sg33
-g26
+tp378
+(dp379
+tp380
+Rp381
+sg35
+(lp382
+sg37
+g30
 ((I2015
 I8
 I21
@@ -1200,30 +1234,30 @@ I25
 I4
 I233
 I1
-tp371
-(dp372
-tp373
-Rp374
-sbsa(dp375
-g14
+tp383
+(dp384
+tp385
+Rp386
+sbsa(dp387
+g18
 I00
-sg15
-(lp376
+sg19
+(lp388
 F1410.0
 aF430.0
-asg17
+asg21
 (itiddlywiki
 Tiddler
-p377
-(dp378
-g21
+p389
+(dp390
+g25
 VThe Uncle replies, [i]"He's among the worst Addicted I've ever seen in my practice."[/i]\u000a\u000a        Among surprised gasps from the sea of Owl Masks, you could see the Prosecutor ruffle through the stack of papers they had in their hands.\u000a\u000a        It took a while for the noise from the Owl Masked people to die down. When it did, the Prosecutor asked, [i]"That's interesting. But can we purely rely on just one person's testimony to declare that?"[/i]\u000a\u000a        They then look at You, waiting for your reply.\u000a\u000a        You say to The Prosecutor...\u000a[[[Do you have any proof that John Smith is an innocent?|SmithProof]]\u000a           \u000a          [[John Smith's own Uncle, a respected Lawyer says that he's an Addicted|UncleAddicted]]\u000a           
-p379
-sg23
+p391
+sg27
 VSmithAddicted
-p380
-sg25
-g26
+p392
+sg29
+g30
 ((I2015
 I8
 I21
@@ -1233,14 +1267,14 @@ I38
 I4
 I233
 I1
-tp381
-(dp382
-tp383
-Rp384
-sg31
-(lp385
-sg33
-g26
+tp393
+(dp394
+tp395
+Rp396
+sg35
+(lp397
+sg37
+g30
 ((I2015
 I8
 I21
@@ -1250,47 +1284,47 @@ I25
 I4
 I233
 I1
-tp386
-(dp387
-tp388
-Rp389
-sbsa(dp390
-g14
+tp398
+(dp399
+tp400
+Rp401
+sbsa(dp402
+g18
 I00
-sg15
-(lp391
+sg19
+(lp403
 F1550.0
 aF430.0
-asg17
+asg21
 (itiddlywiki
 Tiddler
-p392
-(dp393
-g21
-V Gesturing at the sea of Owl Masks, the Prosecutor says, [i]"All of them haven't seen a single drop of blood on John Smith's hands other than his own. One resulting from Your heinous act."[/i]\u000a\u000a            You get a sense that this is a deeply manipulated case, with seemingly every odd stacked against you.\u000a\u000a            You are clearly not going to get any farther pursuing this line of inquiry.\u000a\u000a\u000a[[defense|Defense]]\u000a
-p394
-sg23
+p404
+(dp405
+g25
+V Gesturing at the sea of Owl Masks, the Prosecutor says, [i]"All of them haven't seen a single drop of blood on John Smith's hands other than his own. One resulting from Your heinous act."[/i]\u000a\u000a            You get a sense that this is a deeply manipulated case, with seemingly every odd stacked against you.\u000a\u000a            You are clearly not going to get any farther pursuing this line of inquiry.\u000a\u000a\u000a[[Provide another line of defense|Defense]]\u000a
+p406
+sg27
 VSmithProof
-p395
-sg25
-g26
+p407
+sg29
+g30
 ((I2015
 I8
-I21
-I5
-I54
-I5
-I4
-I233
+I31
+I13
+I41
+I57
+I0
+I243
 I1
-tp396
-(dp397
-tp398
-Rp399
-sg31
-(lp400
-sg33
-g26
+tp408
+(dp409
+tp410
+Rp411
+sg35
+(lp412
+sg37
+g30
 ((I2015
 I8
 I21
@@ -1300,47 +1334,47 @@ I25
 I4
 I233
 I1
-tp401
-(dp402
-tp403
-Rp404
-sbsa(dp405
-g14
+tp413
+(dp414
+tp415
+Rp416
+sbsa(dp417
+g18
 I00
-sg15
-(lp406
+sg19
+(lp418
 F1690.0
 aF430.0
-asg17
+asg21
 (itiddlywiki
 Tiddler
-p407
-(dp408
-g21
-V [i]"Still just one person"[/i], the Prosecutor says in a sneering tone.\u000a\u000a            You can tell that they are playing with you. You get a sense that this is a deeply manipulated case, with seemingly every odd stacked against you.\u000a\u000a            You are clearly not going to get any farther pursuing this line of inquiry.\u000a\u000a[[defense|Defense]]
-p409
-sg23
+p419
+(dp420
+g25
+V [i]"Still just one person"[/i], the Prosecutor says in a sneering tone.\u000a\u000a            You can tell that they are playing with you. You get a sense that this is a deeply manipulated case, with seemingly every odd stacked against you.\u000a\u000a            You are clearly not going to get any farther pursuing this line of inquiry.\u000a\u000a[[Pursue another line of defense|Defense]]
+p421
+sg27
 VUncleAddicted
-p410
-sg25
-g26
+p422
+sg29
+g30
 ((I2015
 I8
-I21
-I5
-I53
-I56
-I4
-I233
+I31
+I13
+I41
+I46
+I0
+I243
 I1
-tp411
-(dp412
-tp413
-Rp414
-sg31
-(lp415
-sg33
-g26
+tp423
+(dp424
+tp425
+Rp426
+sg35
+(lp427
+sg37
+g30
 ((I2015
 I8
 I21
@@ -1350,30 +1384,30 @@ I16
 I4
 I233
 I1
-tp416
-(dp417
-tp418
-Rp419
-sbsa(dp420
-g14
+tp428
+(dp429
+tp430
+Rp431
+sbsa(dp432
+g18
 I00
-sg15
-(lp421
-F710.0
+sg19
+(lp433
+F430.0
 aF710.0
-asg17
+asg21
 (itiddlywiki
 Tiddler
-p422
-(dp423
-g21
+p434
+(dp435
+g25
 V*goto killPros\u000a\u000a\u000a    *label killPros\u000a    You have had enough of this.\u000a\u000a    You jump out of the witness box.\u000a    Amid the noise of shocked hoots, you leap towards the Prosecutor and wrap your hands around their throat.\u000a\u000a    The Prosecutor's faceless figure contorts in strange ways as You slowly choke him.\u000a    They let out words, [i]"Just so you...know...this was all...a..game...and....I...WON!"[/i]\u000a\u000a    [[You choke The Developer to death|DeveloperIsDead]]\u000a        \u000a
-p424
-sg23
+p436
+sg27
 VKillProsecutor
-p425
-sg25
-g26
+p437
+sg29
+g30
 ((I2015
 I8
 I21
@@ -1383,14 +1417,14 @@ I35
 I4
 I233
 I1
-tp426
-(dp427
-tp428
-Rp429
-sg31
-(lp430
-sg33
-g26
+tp438
+(dp439
+tp440
+Rp441
+sg35
+(lp442
+sg37
+g30
 ((I2015
 I8
 I21
@@ -1400,30 +1434,30 @@ I40
 I4
 I233
 I1
-tp431
-(dp432
-tp433
-Rp434
-sbsa(dp435
-g14
+tp443
+(dp444
+tp445
+Rp446
+sbsa(dp447
+g18
 I00
-sg15
-(lp436
+sg19
+(lp448
 F850.0
 aF570.0
-asg17
+asg21
 (itiddlywiki
 Tiddler
-p437
-(dp438
-g21
+p449
+(dp450
+g25
 V\u000a    You have had enough of this. If The Prosecutor is The Developer, then they must pay for making you choose such heinous acts without offering any alternatives.\u000a\u000a    You jump out of the witness box.\u000a    Amid the noise of shocked hoots, you leap towards the Prosecutor and wrap your hands around their throat.\u000a\u000a    The Prosecutor's faceless figure contorts in strange ways as You slowly choke him.\u000a    They let out words, "Just so you...know...this was all..."\u000a\u000a    You...\u000a[[Choke harder|ChokeHarder]]\u000a       \u000a[[Spit at the Developer and choke harder|SpitChoke]]
-p439
-sg23
+p451
+sg27
 VKillDeveloper
-p440
-sg25
-g26
+p452
+sg29
+g30
 ((I2015
 I8
 I21
@@ -1433,14 +1467,14 @@ I23
 I4
 I233
 I1
-tp441
-(dp442
-tp443
-Rp444
-sg31
-(lp445
-sg33
-g26
+tp453
+(dp454
+tp455
+Rp456
+sg35
+(lp457
+sg37
+g30
 ((I2015
 I8
 I21
@@ -1450,47 +1484,47 @@ I40
 I4
 I233
 I1
-tp446
-(dp447
-tp448
-Rp449
-sbsa(dp450
-g14
+tp458
+(dp459
+tp460
+Rp461
+sbsa(dp462
+g18
 I00
-sg15
-(lp451
-F850.0
+sg19
+(lp463
+F710.0
 aF850.0
-asg17
+asg21
 (itiddlywiki
 Tiddler
-p452
-(dp453
-g21
-V*bug The Developer is Dead.\u000a        *finish
-p454
-sg23
+p464
+(dp465
+g25
+V<<DevAlert>>
+p466
+sg27
 VDeveloperIsDead
-p455
-sg25
-g26
+p467
+sg29
+g30
 ((I2015
 I8
-I21
-I6
-I2
-I48
-I4
-I233
+I31
+I13
+I52
+I59
+I0
+I243
 I1
-tp456
-(dp457
-tp458
-Rp459
-sg31
-(lp460
-sg33
-g26
+tp468
+(dp469
+tp470
+Rp471
+sg35
+(lp472
+sg37
+g30
 ((I2015
 I8
 I21
@@ -1500,30 +1534,30 @@ I39
 I4
 I233
 I1
-tp461
-(dp462
-tp463
-Rp464
-sbsa(dp465
-g14
+tp473
+(dp474
+tp475
+Rp476
+sbsa(dp477
+g18
 I00
-sg15
-(lp466
+sg19
+(lp478
 F1130.0
 aF710.0
-asg17
+asg21
 (itiddlywiki
 Tiddler
-p467
-(dp468
-g21
+p479
+(dp480
+g25
 V    You spit on the faceless body of The Developer formerly known as The Prosecutor and choke them.\u000a        The words continue to spill out, [i]"all...a..game...and..."[/i]\u000a\u000a        You can almost feel theirthroat crushing under your fingers. \u000a\u000a        [i]"and...I...I...WON!"[/i]\u000a\u000a    [[You choke The Developer to death|DeveloperIsDead]]\u000a        
-p469
-sg23
+p481
+sg27
 VSpitChoke
-p470
-sg25
-g26
+p482
+sg29
+g30
 ((I2015
 I8
 I21
@@ -1533,14 +1567,14 @@ I6
 I4
 I233
 I1
-tp471
-(dp472
-tp473
-Rp474
-sg31
-(lp475
-sg33
-g26
+tp483
+(dp484
+tp485
+Rp486
+sg35
+(lp487
+sg37
+g30
 ((I2015
 I8
 I21
@@ -1550,30 +1584,30 @@ I59
 I4
 I233
 I1
-tp476
-(dp477
-tp478
-Rp479
-sbsa(dp480
-g14
+tp488
+(dp489
+tp490
+Rp491
+sbsa(dp492
+g18
 I00
-sg15
-(lp481
+sg19
+(lp493
 F1270.0
 aF710.0
-asg17
+asg21
 (itiddlywiki
 Tiddler
-p482
-(dp483
-g21
+p494
+(dp495
+g25
 V You choke the faceless body of The Developer formerly known as The Prosecutor.\u000a        The words continue to spill out, [i]"all...a..game...and..."[/i]\u000a\u000a        You can almost feel their throat crushing under your fingers. \u000a\u000a        [i]"and...it...was...FUN!"[/i]\u000a        \u000a    [[You choke The Developer to death|DeveloperIsDead]]\u000a        
-p484
-sg23
+p496
+sg27
 VChokeHarder
-p485
-sg25
-g26
+p497
+sg29
+g30
 ((I2015
 I8
 I21
@@ -1583,14 +1617,14 @@ I11
 I4
 I233
 I1
-tp486
-(dp487
-tp488
-Rp489
-sg31
-(lp490
-sg33
-g26
+tp498
+(dp499
+tp500
+Rp501
+sg35
+(lp502
+sg37
+g30
 ((I2015
 I8
 I21
@@ -1600,14 +1634,574 @@ I12
 I4
 I233
 I1
-tp491
-(dp492
-tp493
-Rp494
+tp503
+(dp504
+tp505
+Rp506
+sbsa(dp507
+g18
+I00
+sg19
+(lp508
+F10.0
+aF430.0
+asg21
+(itiddlywiki
+Tiddler
+p509
+(dp510
+g25
+Vbody {\u000a  margin: 0;\u000a  background-color:#000;\u000a}\u000a#passages {\u000a  margin: 0;\u000a  padding: 0;\u000a  border: 0;\u000a}\u000a.passage {\u000a  width: 40%;\u000a  min-width: 26em;\u000a  height: 33%;\u000a  min-height: 33%;\u000a  font-family: Helvetica, "Helvetica Neue", Arial, sans-serif;\u000a  letter-spacing: 0.1em;\u000a  padding: 1.5em;\u000a  padding-left: 2em;\u000a  font-size:1.8em;\u000a  background-color:#000;\u000a  color:#eee;\u000a  margin: 10%;\u000a  border: silver ridge 0.8em;\u000a  border-radius: 1em;\u000a}\u000a.passage[data-tags~=mint] {\u000a  border-color: MediumAquaMarine;\u000a}\u000a.passage[data-tags~=strawberry] {\u000a  border-color: HotPink;\u000a}\u000a.passage[data-tags~=banana] {\u000a  border-color: Gold;\u000a}\u000a.passage[data-tags~=peanut] {\u000a  border-color: Peru;\u000a}\u000a.content::before {\u000a  content: '';\u000a  position: relative;\u000a  left: -0.6em;\u000a  margin-right: -0.4em;\u000a}\u000aa.internalLink, a.externalLink {\u000a  border-bottom: solid #fff 1px;\u000a  color:#eee;\u000a  font-weight:normal;\u000a}\u000aa.internalLink:hover, a.externalLink:hover {\u000a  text-decoration:none;\u000a  border-bottom: solid #fff 2px;\u000a  color:#fff;\u000a  font-weight:normal;\u000a  padding-left: 0;\u000a}\u000aa.internalLink:active, a.externalLink:active {\u000a  border-bottom: 0;\u000a}\u000a#sidebar {\u000a  display:none;\u000a}
+p511
+sg27
+Vtemplate
+p512
+sg29
+g30
+((I2015
+I8
+I31
+I10
+I0
+I45
+I0
+I243
+I1
+tp513
+(dp514
+tp515
+Rp516
+sg35
+(lp517
+Vstylesheet
+p518
+asg37
+g30
+((I2015
+I8
+I31
+I8
+I3
+I7
+I0
+I243
+I1
+tp519
+(dp520
+tp521
+Rp522
+sbsa(dp523
+g18
+I00
+sg19
+(lp524
+F290.0
+aF290.0
+asg21
+(itiddlywiki
+Tiddler
+p525
+(dp526
+g25
+Vmacros['OpenProof'] =\u000a{\u000ahandler:function p1() \u000a{\u000a\u000avar url="http://lightnarcissus.com/wp-content/uploads/2015/08/Proof.html";\u000awindow.open(url, 'JOHN SMITH IS NOT DEAD', 'location=yes,height=570,width=520,scrollbars=yes,status=yes');\u000a}\u000a}
+p527
+sg27
+VOpenProof
+p528
+sg29
+g30
+((I2015
+I8
+I31
+I13
+I5
+I43
+I0
+I243
+I1
+tp529
+(dp530
+tp531
+Rp532
+sg35
+(lp533
+Vscript
+p534
+asg37
+g30
+((I2015
+I8
+I31
+I10
+I2
+I16
+I0
+I243
+I1
+tp535
+(dp536
+tp537
+Rp538
+sbsa(dp539
+g18
+I00
+sg19
+(lp540
+F570.0
+aF430.0
+asg21
+(itiddlywiki
+Tiddler
+p541
+(dp542
+g25
+VDots start to connect in your mind...\u000a\u000a[[The Prosecutor is the Developer|ProsDev]]\u000a[[You are the Developer|YouDev]]
+p543
+sg27
+VNext
+p544
+sg29
+g30
+((I2015
+I8
+I31
+I13
+I21
+I14
+I0
+I243
+I1
+tp545
+(dp546
+tp547
+Rp548
+sg35
+(lp549
+sg37
+g30
+((I2015
+I8
+I31
+I13
+I20
+I23
+I0
+I243
+I1
+tp550
+(dp551
+tp552
+Rp553
+sbsa(dp554
+g18
+I00
+sg19
+(lp555
+F150.0
+aF430.0
+asg21
+(itiddlywiki
+Tiddler
+p556
+(dp557
+g25
+VAmid a wave of shocked gasps, the Prosecutor barks: <em>"Then you have doomed us all by your deprivable actions. You may be The Developer, our sole point of existence but we would rather commit one final act of justice than live knowing we were made by your hands"</em>\u000a\u000a[[Face the Verdict|Wrap]]
+p558
+sg27
+VYouDev
+p559
+sg29
+g30
+((I2015
+I8
+I31
+I13
+I34
+I28
+I0
+I243
+I1
+tp560
+(dp561
+tp562
+Rp563
+sg35
+(lp564
+sg37
+g30
+((I2015
+I8
+I31
+I13
+I21
+I18
+I0
+I243
+I1
+tp565
+(dp566
+tp567
+Rp568
+sbsa(dp569
+g18
+I00
+sg19
+(lp570
+F150.0
+aF290.0
+asg21
+(itiddlywiki
+Tiddler
+p571
+(dp572
+g25
+VThe Prosecutor takes a step back and You immediately know you've hit the nail on the truth.\u000a\u000a            There are some shocked hoots from the Owl Masked people, but You are looking at the Prosecutor who has dropped the papers they were carrying and is now looking straight at you.\u000a\u000a            <em>"So, now that I've been unmasked as the Developer, what shall we do now?"</em>\u000a\u000a            <em>"Kill The Developer"</em>, comes a shout from the crowd.\u000a\u000a            <em>"Leave The Developer alone. Our existence depends upon him"</em>, comes another shout in response to the first.\u000a\u000aWhat do you do?\u000a\u000a[[Kill The Developer|KillDeveloper]]\u000a[[Leave The Developer|LeaveDev]]\u000a              
+p573
+sg27
+VProsDev
+p574
+sg29
+g30
+((I2015
+I8
+I31
+I13
+I33
+I35
+I0
+I243
+I1
+tp575
+(dp576
+tp577
+Rp578
+sg35
+(lp579
+sg37
+g30
+((I2015
+I8
+I31
+I13
+I21
+I18
+I0
+I243
+I1
+tp580
+(dp581
+tp582
+Rp583
+sbsa(dp584
+g18
+I00
+sg19
+(lp585
+F430.0
+aF570.0
+asg21
+(itiddlywiki
+Tiddler
+p586
+(dp587
+g25
+V The Prosecutor shook his head at You, and then turned towards the empty chair of the Judge.\u000a\u000a          <em>My lord, we have gone through incredibly dark times. The sooner we punish the Addicted like this one who stands before us today, the better we are off as a society. We can move on, putting this as a dark past of our history. A stark warning to those who ever thought that the solution to existential crises stemming from a long life would be to unleash our primal instincts."</em>\u000a\u000a            They pointed at You, shouting to the crowd of Owl Masks:\u000a            <em>"Here, we have someone who never thought twice of the choices offered to them. This one never thought to question the choices their programmed mind lay in front of them. They never looked at the Society and wondered the gravity of their own actions."</em>\u000a\u000a            Looking at the empty Judge chair, the Prosecutor shouted:\u000a            <em>"I ask for a death penalty for this Addicted One, my lord. Free this world of another soul from our tainted past. Relieve us from the uncertainty of death at the hands of these monsters. End this one, now"</em>\u000a\u000a            An invisible hammer slams on the table with a dull thud.\u000a\u000a            [[Your Fate is sealed|YourDeath]]
+p588
+sg27
+VWrap
+p589
+sg29
+g30
+((I2015
+I8
+I31
+I13
+I26
+I24
+I0
+I243
+I1
+tp590
+(dp591
+tp592
+Rp593
+sg35
+(lp594
+sg37
+g30
+((I2015
+I8
+I31
+I13
+I23
+I8
+I0
+I243
+I1
+tp595
+(dp596
+tp597
+Rp598
+sbsa(dp599
+g18
+I00
+sg19
+(lp600
+F150.0
+aF570.0
+asg21
+(itiddlywiki
+Tiddler
+p601
+(dp602
+g25
+VYou may not have made the wisest choices. \u000a\u000a            But they were still Your own choices.\u000a\u000a            [i]Apparently.[/i]\u000a\u000a            As You're seated in the electric chair and feel the shock coursing through your veins, you feel that somewhere you made [b]a mistake[/b].\u000a\u000a            *finish\u000a\u000a<<OpenDeath>>
+p603
+sg27
+VYourDeath
+p604
+sg29
+g30
+((I2015
+I8
+I31
+I13
+I26
+I44
+I0
+I243
+I1
+tp605
+(dp606
+tp607
+Rp608
+sg35
+(lp609
+sg37
+g30
+((I2015
+I8
+I31
+I13
+I26
+I28
+I0
+I243
+I1
+tp610
+(dp611
+tp612
+Rp613
+sbsa(dp614
+g18
+I00
+sg19
+(lp615
+F150.0
+aF710.0
+asg21
+(itiddlywiki
+Tiddler
+p616
+(dp617
+g25
+Vmacros['OpenDeath'] =\u000a{\u000ahandler:function p1() \u000a{\u000avar url="https://duckduckgo.com/?q=restart&t=ffab&ia=definition";\u000awindow.open(url,'_blank');\u000a}\u000a}
+p618
+sg27
+VOpenDeath
+p619
+sg29
+g30
+((I2015
+I8
+I31
+I14
+I2
+I42
+I0
+I243
+I1
+tp620
+(dp621
+tp622
+Rp623
+sg35
+(lp624
+Vscript
+p625
+asg37
+g30
+((I2015
+I8
+I31
+I13
+I26
+I51
+I0
+I243
+I1
+tp626
+(dp627
+tp628
+Rp629
+sbsa(dp630
+g18
+I00
+sg19
+(lp631
+F150.0
+aF150.0
+asg21
+(itiddlywiki
+Tiddler
+p632
+(dp633
+g25
+VThe Prosecutor chuckles for a moment and then says, [i]"Thank you, but surely this court demands one guilty person for this trial. If it's not me, it has to be You"[/i]\u000a\u000aYou...\u000a[[Resign to Your Fate|Wrap]]
+p634
+sg27
+VLeaveDev
+p635
+sg29
+g30
+((I2015
+I8
+I31
+I13
+I33
+I49
+I0
+I243
+I1
+tp636
+(dp637
+tp638
+Rp639
+sg35
+(lp640
+sg37
+g30
+((I2015
+I8
+I31
+I13
+I33
+I38
+I0
+I243
+I1
+tp641
+(dp642
+tp643
+Rp644
+sbsa(dp645
+g18
+I00
+sg19
+(lp646
+F10.0
+aF570.0
+asg21
+(itiddlywiki
+Tiddler
+p647
+(dp648
+g25
+Vmacros['DevAlert'] =\u000a{\u000ahandler:function() \u000a{\u000awindow.alert("The Developer is Dead");\u000a}\u000a}
+p649
+sg27
+VDevAlert
+p650
+sg29
+g30
+((I2015
+I8
+I31
+I13
+I52
+I37
+I0
+I243
+I1
+tp651
+(dp652
+tp653
+Rp654
+sg35
+(lp655
+Vscript
+p656
+asg37
+g30
+((I2015
+I8
+I31
+I13
+I52
+I24
+I0
+I243
+I1
+tp657
+(dp658
+tp659
+Rp660
+sbsa(dp661
+g18
+I00
+sg19
+(lp662
+F290.0
+aF150.0
+asg21
+(itiddlywiki
+Tiddler
+p663
+(dp664
+g25
+Vmacros['OpenCourt'] =\u000a{\u000ahandler:function p1() \u000a{\u000avar url="http://lightnarcissus.com/wp-content/uploads/2015/08/court.png";\u000awindow.open(url,'_blank');\u000a}\u000a}
+p665
+sg27
+VOpenCourt
+p666
+sg29
+g30
+((I2015
+I8
+I31
+I14
+I11
+I40
+I0
+I243
+I1
+tp667
+(dp668
+tp669
+Rp670
+sg35
+(lp671
+Vscript
+p672
+asg37
+g30
+((I2015
+I8
+I31
+I14
+I10
+I26
+I0
+I243
+I1
+tp673
+(dp674
+tp675
+Rp676
 sbsasS'scale'
-p495
+p677
 F0.6000000000000001
 sS'snapping'
-p496
+p678
 I01
 ss.

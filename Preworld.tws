@@ -1,0 +1,280 @@
+(dp0
+S'buildDestination'
+p1
+VC:\u005cUsers\u005cAnsh Patel\u005cDocuments\u005cGitHub\u005cPostmodernistTrash\u005cPreworld.html
+p2
+sS'saveDestination'
+p3
+VC:\u005cUsers\u005cAnsh Patel\u005cDocuments\u005cGitHub\u005cPostmodernistTrash\u005cPreworld.tws
+p4
+sS'metadata'
+p5
+(dp6
+sS'target'
+p7
+S'sugarcane'
+p8
+sS'storyPanel'
+p9
+(dp10
+S'widgets'
+p11
+(lp12
+(dp13
+S'selected'
+p14
+I01
+sS'pos'
+p15
+(lp16
+I10
+aI10
+asS'passage'
+p17
+(itiddlywiki
+Tiddler
+p18
+(dp20
+S'text'
+p21
+VYou couldn't blame yourself. Back then, the society around you didn't either. \u000a<<OpenSource>> <em>Don't you dare block popups</em>\u000aBut now, you were one of the Addicted. You were among those whose bloodlust ashamed the Reformed of their world's history.\u000aAs one of the Addicted, you were excluded from basic human rights and extreme discriminatory practices fully applied to you. \u000a\u000aYou were treated as a monster.\u000a\u000aMany dreamt of rebuilding a moral and just world that their ancestors once wrote about.\u000a
+p22
+sS'title'
+p23
+VStart
+p24
+sS'modified'
+p25
+ctime
+struct_time
+p26
+((I2015
+I8
+I31
+I6
+I30
+I57
+I0
+I243
+I1
+tp27
+(dp28
+tp29
+Rp30
+sS'tags'
+p31
+(lp32
+sS'created'
+p33
+g26
+((I2015
+I8
+I31
+I6
+I14
+I11
+I0
+I243
+I1
+tp34
+(dp35
+tp36
+Rp37
+sbsa(dp38
+g14
+I00
+sg15
+(lp39
+F10.0
+aF150.0
+asg17
+(itiddlywiki
+Tiddler
+p40
+(dp41
+g21
+VPreworld
+p42
+sg23
+VStoryTitle
+p43
+sg25
+g26
+((I2015
+I8
+I31
+I6
+I19
+I55
+I0
+I243
+I1
+tp44
+(dp45
+tp46
+Rp47
+sg31
+(lp48
+sg33
+g26
+((I2015
+I8
+I31
+I6
+I14
+I11
+I0
+I243
+I1
+tp49
+(dp50
+tp51
+Rp52
+sbsa(dp53
+g14
+I00
+sg15
+(lp54
+I10
+aI290
+asg17
+(itiddlywiki
+Tiddler
+p55
+(dp56
+g21
+S'Anonymous'
+p57
+sg23
+S'StoryAuthor'
+p58
+sg25
+g26
+((I2015
+I8
+I31
+I6
+I14
+I11
+I0
+I243
+I1
+tp59
+(dp60
+tp61
+Rp62
+sg31
+(lp63
+sg33
+g62
+sbsa(dp64
+g14
+I00
+sg15
+(lp65
+F150.0
+aF10.0
+asg17
+(itiddlywiki
+Tiddler
+p66
+(dp67
+g21
+Vhtml {\u000a  width: 100%;\u000a\u000a  /* Vertical colour gradient */\u000a  background-image: linear-gradient(to bottom,  black, midnightblue);\u000a  background-image: -webkit-linear-gradient(top,  black, midnightblue);\u000a  background-attachment: fixed;\u000a\u000a  /* Fallback colour */\u000a  background-color: midnightblue;\u000a\u000a  /* Vertical centering */\u000a  height: 100%;\u000a  display: table;\u000a}\u000abody {\u000a  /* Remove default styles */\u000a  font-size: 100%;\u000a  background-color: transparent;\u000a  margin: 0;\u000a\u000a  /* Vertical centering */\u000a  height:100%;\u000a  display:table-cell;\u000a  vertical-align: middle;\u000a}\u000a#passages {\u000a  border-left: 0px;\u000a  margin: 0;\u000a  /* Keep a gap at the top and bottom of the page,\u000a      when the text is longer than the window's height. */\u000a  padding: 5% 0;\u000a}\u000a\u000a.passage {\u000a  /* Passage width */\u000a  width: 60%;\u000a  /* Horizontal centering */\u000a  margin: 0 auto;\u000a\u000a  /* Text formatting */\u000a  color: white;\u000a  font-size: 100%;\u000a  text-align:center;\u000a}\u000a\u000a/* No sidebar */\u000a#sidebar {\u000a  display:none;\u000a}\u000a\u000a/* Links */\u000aa.internalLink, a.externalLink {\u000a  color: cornflowerblue;\u000a}\u000aa.internalLink:hover, a.externalLink:hover {\u000a  color: lightskyblue;\u000a  text-decoration: none;\u000a}\u000a\u000a/* Shrink the page when viewed on devices with a low screen width */\u000a@media screen and (max-width: 960px) {\u000a  .passage { font-size: 90%; width: 70%; }\u000a}\u000a@media screen and (max-width: 840px) {\u000a  .passage {  font-size: 87.5%; width: 80%; }\u000a}\u000a@media screen and (max-width: 720px) {\u000a  .passage { font-size: 75%; width: 90%; }\u000a}
+p68
+sg23
+Vtemplate
+p69
+sg25
+g26
+((I2015
+I8
+I31
+I6
+I17
+I3
+I0
+I243
+I1
+tp70
+(dp71
+tp72
+Rp73
+sg31
+(lp74
+Vstylesheet
+p75
+asg33
+g26
+((I2015
+I8
+I31
+I6
+I16
+I49
+I0
+I243
+I1
+tp76
+(dp77
+tp78
+Rp79
+sbsa(dp80
+g14
+I00
+sg15
+(lp81
+F150.0
+aF150.0
+asg17
+(itiddlywiki
+Tiddler
+p82
+(dp83
+g21
+Vmacros['OpenSource'] =\u000a{\u000ahandler:function showSource(){;\u000a    var source = "<html>";\u000a    source += document.getElementsByTagName('html')[0].innerHTML;\u000a    source += "</html>";\u000a    //now we need to escape the html special chars, javascript has escape\u000a    //but this does not do what we want\u000a    source = source.replace(/</g, "&lt;").replace(/>/g, "&gt;");\u000a    //now we add <pre> tags to preserve whitespace\u000a    source = "<pre>"+source+"</pre>";\u000a    //now open the window and set the source as the content\u000a    sourceWindow = window.open('','Source of page','height=800,width=800,scrollbars=1,resizable=1');\u000a    sourceWindow.document.write(source);\u000a    sourceWindow.document.close(); //close the document for writing, not the window\u000a}\u000a}
+p84
+sg23
+VOpenSource
+p85
+sg25
+g26
+((I2015
+I8
+I31
+I6
+I29
+I57
+I0
+I243
+I1
+tp86
+(dp87
+tp88
+Rp89
+sg31
+(lp90
+Vscript
+p91
+asg33
+g26
+((I2015
+I8
+I31
+I6
+I20
+I59
+I0
+I243
+I1
+tp92
+(dp93
+tp94
+Rp95
+sbsasS'scale'
+p96
+F1.0
+sS'snapping'
+p97
+I01
+ss.
